@@ -1,0 +1,283 @@
+,ID,ID.POSITION,ID.WEIGHTS,ID.AS_OF_DATE,ID.REPORTED_MKT_VAL,ID.CURRENCY,ID.LATEST_CHANGE,ID.ORIG_IDS,ID,,
+1,NEE US Equity,1623800.0,3.559426650652989,43951.0,93823164.0,USD,-312600.0,DNP US Equity,NEE US Equity,NextEra Energy Inc,NEE
+2,AWK US Equity,742190.0,3.426414998210012,43951.0,90317101.0,USD,-136710.0,DNP US Equity,AWK US Equity,American Water Works Co Inc,AWK
+3,CCI US Equity,659850.0,3.991032260590035,43951.0,105199885.0,USD,-30550.0,DNP US Equity,CCI US Equity,Crown Castle International Cor,CCI
+4,ES US Equity,1228500.0,3.761132806972964,43951.0,99139950.0,USD,-118200.0,DNP US Equity,ES US Equity,Eversource Energy,ES
+5,AEE US Equity,1338300.0,3.693656024517432,43951.0,97361325.0,USD,0.0,DNP US Equity,AEE US Equity,Ameren Corp,AEE
+6,XEL US Equity,1525300.0,3.677978041419689,43951.0,96948068.0,USD,-185500.0,DNP US Equity,XEL US Equity,Xcel Energy Inc,XEL
+7,SO US Equity,1668800.0,3.59159243308197,43951.0,94671024.0,USD,-161200.0,DNP US Equity,SO US Equity,Southern Co/The,SO
+8,DTE US Equity,795550.0,3.131004537362494,43951.0,82530357.0,USD,0.0,DNP US Equity,DTE US Equity,DTE Energy Co,DTE
+9,PEG US Equity,1716600.0,3.302422936785512,43951.0,87048786.0,USD,0.0,DNP US Equity,PEG US Equity,Public Service Enterprise Grou,PEG
+10,WEC US Equity,1016200.0,3.490901689957264,43951.0,92016910.0,USD,-147500.0,DNP US Equity,WEC US Equity,WEC Energy Group Inc,WEC
+11,CMS US Equity,1564820.0,3.389178209199833,43951.0,89335574.0,USD,-186380.0,DNP US Equity,CMS US Equity,CMS Energy Corp,CMS
+12,LNT US Equity,1751790.0,3.226571161251319,43951.0,85049404.0,USD,-303450.0,DNP US Equity,LNT US Equity,Alliant Energy Corp,LNT
+13,SRE US Equity,702400.0,3.300277716662817,43951.0,86992240.0,USD,-66400.0,DNP US Equity,SRE US Equity,Sempra Energy,SRE
+14,D US Equity,1147000.0,3.35626869785483,43951.0,88468110.0,USD,0.0,DNP US Equity,D US Equity,Dominion Energy Inc,D
+15,EVRG US Equity,1592441.0,3.529955349071359,43951.0,93046328.0,USD,0.0,DNP US Equity,EVRG US Equity,Evergy Inc,EVRG
+16,VZ US Equity,1416389.0,3.08704209288965,43951.0,81371548.0,USD,-85700.0,DNP US Equity,VZ US Equity,Verizon Communications Inc,VZ
+17,AEP US Equity,988640.0,3.117176771528286,43951.0,82165870.0,USD,-117360.0,DNP US Equity,AEP US Equity,American Electric Power Co Inc,AEP
+18,PNW US Equity,936100.0,2.734176448773306,43951.0,72070339.0,USD,-63900.0,DNP US Equity,PNW US Equity,Pinnacle West Capital Corp,PNW
+19,OGE US Equity,2300000.0,2.750325009991553,43951.0,72496000.0,USD,0.0,DNP US Equity,OGE US Equity,OGE Energy Corp,OGE
+20,CNP US Equity,3071300.0,1.984297846091861,43951.0,52304239.0,USD,0.0,DNP US Equity,CNP US Equity,CenterPoint Energy Inc,CNP
+21,ATO US Equity,732000.0,2.831740639604804,43951.0,74642040.0,USD,0.0,DNP US Equity,ATO US Equity,Atmos Energy Corp,ATO
+22,EMA CN Equity,1296855.0,1.962740709434287,43951.0,51736013.0,USD,0.0,DNP US Equity,EMA CN Equity,Emera Inc,EMA
+23,T US Equity,2290700.0,2.647955262039446,43951.0,69797629.0,USD,161700.0,DNP US Equity,T US Equity,AT&T Inc,T
+24,AMT US Equity,289000.0,2.60942472463638,43951.0,68782000.0,USD,0.0,DNP US Equity,AMT US Equity,American Tower Corp,AMT
+25,NI US Equity,2655000.0,2.529188575333223,43951.0,66667050.0,USD,0.0,DNP US Equity,NI US Equity,NiSource Inc,NI
+26,T CN Equity,2560600.0,1.591133089046686,43951.0,41940783.0,USD,0.0,DNP US Equity,T CN Equity,TELUS Corp,T
+27,NEP US Equity,1010250.0,1.927438207432487,43951.0,50805472.0,USD,0.0,DNP US Equity,NEP US Equity,NextEra Energy Partners LP,NEP
+28,EIX US Equity,1000000.0,2.22731711179381,43951.0,58710000.0,USD,0.0,DNP US Equity,EIX US Equity,Edison International,EIX
+29,FTS CN Equity,1079800.0,1.590880765999325,43951.0,41934132.0,USD,0.0,DNP US Equity,FTS CN Equity,Fortis Inc/Canada,FTS
+30,SR US Equity,840900.0,2.327550706712127,43951.0,61352064.0,USD,-62100.0,DNP US Equity,SR US Equity,Spire Inc,SR
+31,BCE CN Equity,951515.0,1.459811443338151,43951.0,38479267.0,USD,0.0,DNP US Equity,BCE CN Equity,BCE Inc,BCE
+32,CMCSA US Equity,1002350.0,1.430947105586731,43951.0,37718430.0,USD,1002350.0,DNP US Equity,CMCSA US Equity,Comcast Corp,CMCSA
+33,TRP CN Equity,856000.0,1.505522204652758,43951.0,39684160.0,USD,-519500.0,DNP US Equity,TRP CN Equity,TC Energy Corp,TRP
+34,ENB CN Equity,1155945.0,1.345434327853528,43951.0,35464393.0,USD,-130900.0,DNP US Equity,ENB CN Equity,Enbridge Inc,ENB
+35,OGS US Equity,576000.0,1.74182799286501,43951.0,45912960.0,USD,0.0,DNP US Equity,OGS US Equity,ONE Gas Inc,OGS
+36,WTRG US Equity,842110.0,1.33509192823253,43951.0,35191777.0,USD,0.0,DNP US Equity,WTRG US Equity,Essential Utilities Inc,WTRG
+37,NWN US Equity,800000.0,1.975790754253477,43951.0,52080000.0,USD,0.0,DNP US Equity,NWN US Equity,Northwest Natural Holding Co,NWN
+38,NJR US Equity,1081600.0,1.386105532866032,43951.0,36536448.0,USD,1081600.0,DNP US Equity,NJR US Equity,New Jersey Resources Corp,NJR
+39,SJI US Equity,1500000.0,1.626954425809531,43951.0,42885000.0,USD,0.0,DNP US Equity,SJI US Equity,South Jersey Industries Inc,SJI
+40,EPD US Equity,1631000.0,1.086546821937233,43951.0,28640360.0,USD,115000.0,DNP US Equity,EPD US Equity,Enterprise Products Partners L,EPD
+41,PPL CN Equity,986600.0,0.8601760592845515,43951.0,22673438.0,USD,0.0,DNP US Equity,PPL CN Equity,Pembina Pipeline Corp,PPL
+42,EF594550     Corp,22000.0,1.1384193340722,43951.0,30007671.0,USD,0.0,DNP US Equity,EF594550     Corp,PNW 6 ⅞ 08/01/36,PNW
+43,FE US Equity,1138500.0,1.782532582974744,43951.0,46985895.0,USD,448500.0,DNP US Equity,FE US Equity,FirstEnergy Corp,FE
+44,WMB US Equity,1273500.0,0.9358334045649909,43951.0,24667695.0,USD,-230000.0,DNP US Equity,WMB US Equity,Williams Cos Inc/The,WMB
+45,KMI US Equity,1660026.0,0.9591461041479309,43951.0,25282196.0,USD,-175000.0,DNP US Equity,KMI US Equity,Kinder Morgan Inc,KMI
+46,EC318192     Corp,15500.0,0.8803351191203943,43951.0,23204812.0,USD,15500.0,DNP US Equity,EC318192     Corp,VZ 7 ¾ 12/01/30,VZ
+47,NG/ LN Equity,2557100.0,1.142634581973604,43951.0,30118781.0,USD,2557100.0,DNP US Equity,NG/ LN Equity,National Grid PLC,NG/
+48,MPLX US Equity,1006852.0,0.6913758102365822,43951.0,18224021.0,USD,-55000.0,DNP US Equity,MPLX US Equity,MPLX LP,MPLX
+49,EC347480     Corp,15000.0,0.80186819028238,43951.0,21136497.0,USD,0.0,DNP US Equity,EC347480     Corp,KPN 8 ⅜ 10/01/30,KPN
+50,BKH US Equity,327600.0,0.7698126924870894,43951.0,20291544.0,USD,0.0,DNP US Equity,BKH US Equity,Black Hills Corp,BKH
+51,ET US Equity,2954062.0,0.9413884571184148,43951.0,24814121.0,USD,-100000.0,DNP US Equity,ET US Equity,Energy Transfer LP,ET
+52,TRGP US Equity,765120.0,0.3761876384138544,43951.0,9915955.0,USD,150000.0,DNP US Equity,TRGP US Equity,Targa Resources Corp,TRGP
+53,MMP US Equity,427090.0,0.6664201086185959,43951.0,17566212.0,USD,0.0,DNP US Equity,MMP US Equity,Magellan Midstream Partners LP,MMP
+54,DD115610     Corp,15000.0,0.5930217583547086,43951.0,15631500.0,USD,0.0,DNP US Equity,DD115610     Corp,LUMN 6 ⅞ 01/15/28,LUMN
+55,LNG US Equity,291000.0,0.5154503468122811,43951.0,13586790.0,USD,131000.0,DNP US Equity,LNG US Equity,Cheniere Energy Inc,LNG
+56,AN582568     Corp,14000.0,0.5747375372916088,43951.0,15149545.0,USD,0.0,DNP US Equity,AN582568     Corp,NI 3.49 05/15/27,NI
+57,ED165011     Corp,10345.0,0.4394347187383862,43951.0,11583089.0,USD,10345.0,DNP US Equity,ED165011     Corp,AEP 6.6 03/01/33,AEP
+58,JV621850     Corp,13000.0,0.5415436835559931,43951.0,14274586.0,USD,3000.0,DNP US Equity,JV621850     Corp,D 3.15 01/15/26,D
+59,PAA US Equity,1618900.0,0.542313854986525,43951.0,14294887.0,USD,280000.0,DNP US Equity,PAA US Equity,Plains All American Pipeline L,PAA
+60,VOD US Equity,782200.0,0.4196016567894733,43951.0,11060308.0,USD,0.0,DNP US Equity,VOD US Equity,Vodafone Group PLC,VOD
+61,EK433684     Corp,12000.0,0.4922597683975043,43951.0,12975508.0,USD,1000.0,DNP US Equity,EK433684     Corp,AWK 3.4 03/01/25,AWK
+62,EJ865821     Corp,12210.0,0.4817309812961753,43951.0,12697979.0,USD,0.0,DNP US Equity,EJ865821     Corp,TRPCN 3 ¾ 10/16/23,TRPCN
+63,QJ774067     Corp,11300.0,0.4698412582937839,43951.0,12384577.0,USD,0.0,DNP US Equity,QJ774067     Corp,SO 4.15 12/01/25,SO
+64,ED983568     Corp,11000.0,0.4045525275231901,43951.0,10663627.0,USD,0.0,DNP US Equity,ED983568     Corp,OKE 6 06/15/35,OKE
+65,AL376295     Corp,11000.0,0.4405005759050672,43951.0,11611184.0,USD,0.0,DNP US Equity,AL376295     Corp,ENBCN 4 ¼ 12/01/26,ENBCN
+66,OKE US Equity,332150.0,0.377147270271167,43951.0,9941250.0,USD,20000.0,DNP US Equity,OKE US Equity,ONEOK Inc,OKE
+67,AR495387     Corp,10000.0,0.4043777489516685,43951.0,10659020.0,USD,0.0,DNP US Equity,AR495387     Corp,PSX 3.9 03/15/28,PSX
+68,EI044688     Corp,9500.0,0.4145648699329359,43951.0,10927543.0,USD,0.0,DNP US Equity,EI044688     Corp,ETR 5.4 11/01/24,ETR
+69,AO664569     Corp,10000.0,0.404995600876088,43951.0,10675306.0,USD,0.0,DNP US Equity,AO664569     Corp,DUK 3.15 08/15/27,DUK
+70,AN431827     Corp,10000.0,0.4107805174114633,43951.0,10827791.0,USD,0.0,DNP US Equity,AN431827     Corp,PEG 3 05/15/27,PEG
+71,JV874984     Corp,9385.0,0.4002097333753233,43951.0,10549155.0,USD,0.0,DNP US Equity,JV874984     Corp,CCI 4.45 02/15/26,CCI
+72,EK270429     Corp,10000.0,0.407417841430573,43951.0,10739154.0,USD,0.0,DNP US Equity,EK270429     Corp,NEE 3 ¼ 06/01/24,NEE
+73,EC526408     Corp,10000.0,0.4170269070408236,43951.0,10992440.0,USD,0.0,DNP US Equity,EC526408     Corp,AES 8 ⅛ 09/01/31,AES
+74,JK212673     Corp,9000.0,0.3703159206256809,43951.0,9761182.0,USD,0.0,DNP US Equity,JK212673     Corp,MMP 5 03/01/26,MMP
+75,AR929031     Corp,9500.0,0.3743076780636955,43951.0,9866401.0,USD,9500.0,DNP US Equity,AR929031     Corp,VLO 4 ½ 03/15/28,VLO
+76,ORA FP Equity,1000000.0,0.4626933192887693,43951.0,12196164.0,USD,0.0,DNP US Equity,ORA FP Equity,Orange SA,ORA
+77,EK775889     Corp,10000.0,0.3839950089643842,43951.0,10121750.0,USD,0.0,DNP US Equity,EK775889     Corp,WMB 3.6 03/15/22,WMB
+78,EJ734486     Corp,8850.0,0.4047594013131852,43951.0,10669080.0,USD,8850.0,DNP US Equity,EJ734486     Corp,ETP 7.6 02/01/24,ETP
+79,EK326606     Corp,9000.0,0.3604095758996406,43951.0,9500060.0,USD,0.0,DNP US Equity,EK326606     Corp,SRE 3.55 06/15/24,SRE
+80,WLKP US Equity,452020.0,0.3083311004773304,43951.0,8127320.0,USD,0.0,DNP US Equity,WLKP US Equity,Westlake Chemical Partners LP,WLKP
+81,EJ056145     Corp,9000.0,0.3609158153740024,43951.0,9513404.0,USD,0.0,DNP US Equity,EJ056145     Corp,CMS 5.05 03/15/22,CMS
+82,EC900159     Corp,5900.0,0.3381315108299495,43951.0,8912831.0,USD,0.0,DNP US Equity,EC900159     Corp,CMCSA 7.05 03/15/33,CMCSA
+83,EK959243     Corp,8000.0,0.3283854525082242,43951.0,8655934.0,USD,0.0,DNP US Equity,EK959243     Corp,WEC 3.55 06/15/25,WEC
+84,AW136698     Corp,7000.0,0.3053531877420169,43951.0,8048825.0,USD,0.0,DNP US Equity,AW136698     Corp,ES 4 ¼ 04/01/29,ES
+85,AM US Equity,1161419.0,0.2092919332876406,43951.0,5516740.0,USD,0.0,DNP US Equity,AM US Equity,Antero Midstream Corp,AM
+86,ZS781407     Corp,7000.0,0.2811950105717249,43951.0,7412038.0,USD,7000.0,DNP US Equity,ZS781407     Corp,T 3.55 06/01/24,T
+87,DD533344     Corp,6488.0,0.2609514257397133,43951.0,6878436.0,USD,0.0,DNP US Equity,DD533344     Corp,ETP 7.6 02/01/24,ETP
+88,KEY CN Equity,325000.0,0.183310246931597,43951.0,4831887.0,USD,50000.0,DNP US Equity,KEY CN Equity,Keyera Corp,KEY
+89,DCP US Equity,421000.0,0.1453427795434043,43951.0,3831100.0,USD,40000.0,DNP US Equity,DCP US Equity,DCP Midstream LP,DCP
+90,EC326613     Corp,5000.0,0.2679131669524492,43951.0,7061941.0,USD,0.0,DNP US Equity,EC326613     Corp,VOD 7 ⅞ 02/15/30,VOD
+91,EJ592957     Corp,7000.0,0.2740955558329149,43951.0,7224903.0,USD,0.0,DNP US Equity,EJ592957     Corp,AEP 3.2 03/15/23,AEP
+92,DD116291     Corp,5000.0,0.2605967470192541,43951.0,6869087.0,USD,0.0,DNP US Equity,DD116291     Corp,CMCSA 7 ⅛ 02/15/28,CMCSA
+93,ED165031     Corp,5000.0,0.2618431113366406,43951.0,6901940.0,USD,0.0,DNP US Equity,ED165031     Corp,AEP 6.6 02/15/33,AEP
+94,EJ800349     Corp,6400.0,0.2631912243253579,43951.0,6937475.0,USD,0.0,DNP US Equity,EJ800349     Corp,DTE 3.65 03/15/24,DTE
+95,AM450727     Corp,6000.0,0.2458896253115269,43951.0,6481421.0,USD,0.0,DNP US Equity,AM450727     Corp,CMS 3.45 08/15/27,CMS
+96,CQP US Equity,170941.0,0.2187421920603853,43951.0,5765840.0,USD,0.0,DNP US Equity,CQP US Equity,Cheniere Energy Partners LP,CQP
+97,EJ588630     Corp,6000.0,0.236189547373714,43951.0,6225736.0,USD,0.0,DNP US Equity,EJ588630     Corp,EPD 3.35 03/15/23,EPD
+98,AR680377     Corp,5600.0,0.2224337871242129,43951.0,5863147.0,USD,0.0,DNP US Equity,AR680377     Corp,EIX 4 ⅛ 03/15/28,EIX
+99,MPC US Equity,145000.0,0.1764705889494138,43951.0,4651600.0,USD,0.0,DNP US Equity,MPC US Equity,Marathon Petroleum Corp,MPC
+100,AQ322129     Corp,5500.0,0.218226278495349,43951.0,5752241.0,USD,0.0,DNP US Equity,AQ322129     Corp,AMT 3 06/15/23,AMT
+101,EI413746     Corp,5000.0,0.2138117822636584,43951.0,5635879.0,USD,0.0,DNP US Equity,EI413746     Corp,ETR 4.44 01/15/26,ETR
+102,PSXP US Equity,208419.0,0.3364393795893203,43951.0,8868228.0,USD,30000.0,DNP US Equity,PSXP US Equity,Phillips 66 Partners LP,PSXP
+103,EK344648     Corp,5000.0,0.1981327748504308,43951.0,5222595.0,USD,0.0,DNP US Equity,EK344648     Corp,WMB 4.55 06/24/24,WMB
+104,AM723844     Corp,5000.0,0.2078754946624331,43951.0,5479404.0,USD,0.0,DNP US Equity,AM723844     Corp,ES 3.2 03/15/27,ES
+105,JK217602     Corp,5000.0,0.2067169559133281,43951.0,5448866.0,USD,0.0,DNP US Equity,JK217602     Corp,T 4.45 04/01/24,T
+106,UV538991     Corp,5000.0,0.1788712050659202,43951.0,4714878.0,USD,0.0,DNP US Equity,UV538991     Corp,PAA 4.65 10/15/25,PAA
+107,EK900908     Corp,5000.0,0.2038544493891213,43951.0,5373413.0,USD,0.0,DNP US Equity,EK900908     Corp,PEG 3 05/15/25,PEG
+108,UV466329     Corp,5000.0,0.2116741876006705,43951.0,5579534.0,USD,0.0,DNP US Equity,UV466329     Corp,PNM 3.85 08/01/25,PNM
+109,EJ792831     Corp,4500.0,0.1912312785631511,43951.0,5040678.0,USD,0.0,DNP US Equity,EJ792831     Corp,AMT 5 02/15/24,AMT
+110,AW484181     Corp,4000.0,0.1730773731920801,43951.0,4562158.0,USD,0.0,DNP US Equity,AW484181     Corp,ETR 4 03/30/29,ETR
+111,GLNG US Equity,480000.0,0.1291092760152733,43951.0,3403200.0,USD,170000.0,DNP US Equity,GLNG US Equity,Golar LNG Ltd,GLNG
+112,RTLR US Equity,370000.0,0.09573176630728156,43951.0,2523400.0,USD,370000.0,DNP US Equity,RTLR US Equity,Rattler Midstream LP,RTLR
+113,GEL US Equity,400000.0,0.09074676428906138,43951.0,2392000.0,USD,50000.0,DNP US Equity,GEL US Equity,Genesis Energy LP,GEL
+114,SHLX US Equity,200000.0,0.1114606996159123,43951.0,2938000.0,USD,200000.0,DNP US Equity,SHLX US Equity,Shell Midstream Partners LP,SHLX
+115,912796WH     Govt,0.0,0.0,43951.0,0.0,USD,-19000.0,DNP US Equity,912796WH     Govt,B 0 12/10/19,B
+116,TGE US Equity,0.0,0.0,43951.0,0.0,USD,-553305.0,DNP US Equity,TGE US Equity,Tallgrass Energy LP,TGE
+117,EI250198     Corp,6000.0,0.2298999468060071,43951.0,6059948.0,USD,0.0,DNP US Equity,EI250198     Corp,EPD 5.2 09/01/20,EPD
+118,ENLC US Equity,0.0,0.0,43951.0,0.0,USD,-600000.0,DNP US Equity,ENLC US Equity,EnLink Midstream LLC,ENLC
+119,EI354547     Corp,4875.0,0.1854903317183323,43951.0,4889352.0,USD,0.0,DNP US Equity,EI354547     Corp,DTE 3.45 10/01/20,DTE
+120,239753BC     Corp,8000.0,0.3075699581980949,43951.0,8107257.0,USD,0.0,DNP US Equity,239753BC     Corp,TGT 9 ⅞ 07/01/20,TGT
+121,EC228207     Corp,0.0,0.0,43951.0,0.0,USD,-10000.0,DNP US Equity,EC228207     Corp,T 7 ⅞ 02/15/30,T
+122,GLOP US Equity,0.0,0.0,43951.0,0.0,USD,-505000.0,DNP US Equity,GLOP US Equity,GasLog Partners LP,GLOP
+123,912796TT     Govt,19000.0,0.7208096294590486,43951.0,18999869.0,USD,19000.0,DNP US Equity,912796TT     Govt,B 0 05/07/20,B
+124,NBLX US Equity,0.0,0.0,43951.0,0.0,USD,-108403.0,DNP US Equity,NBLX US Equity,Noble Midstream Partners LP,NBLX
+125,EH821182     Corp,0.0,0.0,43951.0,0.0,USD,-8030.0,DNP US Equity,EH821182     Corp,KMI 6.85 02/15/20,KMI
+126,EK608636     Corp,0.0,0.0,43951.0,0.0,USD,-11000.0,DNP US Equity,EK608636     Corp,LNT 3 ¼ 12/01/24,LNT
+127,WES US Equity,0.0,0.0,43951.0,0.0,USD,-331300.0,DNP US Equity,WES US Equity,Western Midstream Partners LP,WES
+128,EC193864     Corp,0.0,0.0,43951.0,0.0,USD,-8850.0,DNP US Equity,EC193864     Corp,ETP 8 ¼ 11/15/29,ETP
+129,EC450240     Corp,0.0,0.0,43951.0,0.0,USD,-15500.0,DNP US Equity,EC450240     Corp,VZ 7 ¾ 12/01/30,VZ
+130,EH684774     Corp,11000.0,0.4471086627128271,43951.0,11785367.0,USD,11000.0,DNP US Equity,EH684774     Corp,AEP 7 03/15/19,AEP
+131,912796WD     Govt,0.0,0.0,43951.0,0.0,USD,-19000.0,DNP US Equity,912796WD     Govt,B 0 11/12/19,B
+132,EC882719     Corp,0.0,0.0,43951.0,0.0,USD,-10345.0,DNP US Equity,EC882719     Corp,ONCRTX 7 09/01/22,ONCRTX
+133,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+134,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+135,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+136,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+137,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+138,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+139,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+140,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+141,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+142,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+143,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+144,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+145,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+146,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+147,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+148,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+149,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+150,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+151,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+152,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+153,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+154,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+155,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+156,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+157,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+158,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+159,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+160,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+161,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+162,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+163,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+164,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+165,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+166,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+167,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+168,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+169,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+170,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+171,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+172,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+173,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+174,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+175,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+176,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+177,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+178,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+179,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+180,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+181,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+182,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+183,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+184,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+185,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+186,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+187,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+188,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+189,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+190,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+191,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+192,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+193,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+194,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+195,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+196,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+197,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+198,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+199,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+200,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+201,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+202,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+203,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+204,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+205,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+206,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+207,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+208,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+209,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+210,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+211,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+212,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+213,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+214,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+215,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+216,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+217,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+218,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+219,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+220,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+221,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+222,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+223,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+224,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+225,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+226,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+227,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+228,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+229,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+230,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+231,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+232,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+233,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+234,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+235,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+236,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+237,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+238,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+239,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+240,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+241,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+242,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+243,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+244,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+245,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+246,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+247,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+248,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+249,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+250,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+251,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+252,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+253,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+254,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+255,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+256,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+257,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+258,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+259,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+260,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+261,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+262,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+263,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+264,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+265,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+266,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+267,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+268,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+269,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+270,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+271,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+272,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+273,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+274,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+275,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+276,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+277,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+278,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+279,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+280,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+281,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+282,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security

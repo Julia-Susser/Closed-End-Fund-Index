@@ -1,0 +1,283 @@
+,ID,ID.POSITION,ID.WEIGHTS,ID.AS_OF_DATE,ID.REPORTED_MKT_VAL,ID.CURRENCY,ID.LATEST_CHANGE,ID.ORIG_IDS,ID,,
+1,6723 JP Equity,575400.0,1.365555952376655,44134.0,4749727.44,USD,-271700.0,STK US Equity,6723 JP Equity,Renesas Electronics Corp,6723
+2,LRCX US Equity,74069.0,7.284587694408734,44134.0,25337523.52,USD,-1300.0,STK US Equity,LRCX US Equity,Lam Research Corp,LRCX
+3,AAPL US Equity,186700.0,5.843236427092209,44134.0,20324162.0,USD,-700.0,STK US Equity,AAPL US Equity,Apple Inc,AAPL
+4,TER US Equity,184106.0,4.64997394254297,44134.0,16173712.1,USD,0.0,STK US Equity,TER US Equity,Teradyne Inc,TER
+5,AVGO US Equity,47400.0,4.7646153206711,44134.0,16572462.0,USD,-3600.0,STK US Equity,AVGO US Equity,Broadcom Inc,AVGO
+6,SNPS US Equity,67609.0,4.156950814022315,44134.0,14458860.74,USD,0.0,STK US Equity,SNPS US Equity,Synopsys Inc,SNPS
+7,AMAT US Equity,171700.0,2.923834853664053,44134.0,10169791.0,USD,0.0,STK US Equity,AMAT US Equity,Applied Materials Inc,AMAT
+8,MSFT US Equity,67900.0,3.952494444337193,44134.0,13747713.0,USD,0.0,STK US Equity,MSFT US Equity,Microsoft Corp,MSFT
+9,GOOGL US Equity,7991.0,3.712896638105139,44134.0,12914335.01,USD,0.0,STK US Equity,GOOGL US Equity,Alphabet Inc,GOOGL
+10,MU US Equity,204604.0,2.961202737020817,44134.0,10299765.36,USD,0.0,STK US Equity,MU US Equity,Micron Technology Inc,MU
+11,GOOG US Equity,6479.0,3.019496183219289,44134.0,10502523.79,USD,0.0,STK US Equity,GOOG US Equity,Alphabet Inc,GOOG
+12,V US Equity,55200.0,2.883757367827233,44134.0,10030392.0,USD,0.0,STK US Equity,V US Equity,Visa Inc,V
+13,MRVL US Equity,252158.0,2.719321938093277,44134.0,9458446.58,USD,-3138.0,STK US Equity,MRVL US Equity,Marvell Technology Group Ltd,MRVL
+14,NTAP US Equity,173700.0,2.191826686215544,44134.0,7623693.0,USD,24300.0,STK US Equity,NTAP US Equity,NetApp Inc,NTAP
+15,ON US Equity,345466.0,2.491992803661125,44134.0,8667741.94,USD,-73352.0,STK US Equity,ON US Equity,ON Semiconductor Corp,ON
+16,WDC US Equity,184149.0,1.997546882561727,44134.0,6947941.77,USD,0.0,STK US Equity,WDC US Equity,Western Digital Corp,WDC
+17,BE US Equity,340803.0,1.238486548736797,44134.0,4307749.92,USD,17598.0,STK US Equity,BE US Equity,Bloom Energy Corp,BE
+18,CRNC US Equity,100110.0,1.570911806446448,44134.0,5464003.8,USD,-198.0,STK US Equity,CRNC US Equity,Cerence Inc,CRNC
+19,SYNA US Equity,105481.0,2.325093985251343,44134.0,8087228.27,USD,900.0,STK US Equity,SYNA US Equity,Synaptics Inc,SYNA
+20,NXPI US Equity,47700.0,1.853014537945965,44134.0,6445224.0,USD,-4700.0,STK US Equity,NXPI US Equity,NXP Semiconductors NV,NXPI
+21,DBX US Equity,344635.0,1.809259930780411,44134.0,6293035.1,USD,0.0,STK US Equity,DBX US Equity,Dropbox Inc,DBX
+22,AEIS US Equity,65250.0,1.265703663613202,44134.0,4402417.5,USD,1000.0,STK US Equity,AEIS US Equity,Advanced Energy Industries Inc,AEIS
+23,PANW US Equity,22000.0,1.399036291719558,44134.0,4866180.0,USD,0.0,STK US Equity,PANW US Equity,Palo Alto Networks Inc,PANW
+24,FTNT US Equity,50996.0,1.618184235854284,44134.0,5628428.52,USD,0.0,STK US Equity,FTNT US Equity,Fortinet Inc,FTNT
+25,ANET US Equity,22900.0,1.375354755206536,44134.0,4783810.0,USD,15000.0,STK US Equity,ANET US Equity,Arista Networks Inc,ANET
+26,XPER US Equity,308488.0,1.099767220642021,44134.0,3825251.2,USD,0.0,STK US Equity,XPER US Equity,Xperi Holding Corp,XPER
+27,CRM US Equity,25800.0,1.722874475363572,44134.0,5992566.0,USD,0.0,STK US Equity,CRM US Equity,salesforce.com Inc,CRM
+28,ORCL US Equity,90300.0,1.456695672468572,44134.0,5066733.0,USD,0.0,STK US Equity,ORCL US Equity,Oracle Corp,ORCL
+29,DISCA US Equity,186500.0,1.085250901637695,44134.0,3774760.0,USD,0.0,STK US Equity,DISCA US Equity,Discovery Inc,DISCA
+30,GDDY US Equity,64135.0,1.304370492329045,44134.0,4536909.9,USD,0.0,STK US Equity,GDDY US Equity,GoDaddy Inc,GDDY
+31,FIS US Equity,33800.0,1.210711582305728,44134.0,4211142.0,USD,0.0,STK US Equity,FIS US Equity,Fidelity National Information,FIS
+32,ATVI US Equity,58508.0,1.273866804537527,44134.0,4430810.84,USD,-5200.0,STK US Equity,ATVI US Equity,Activision Blizzard Inc,ATVI
+33,HPQ US Equity,198507.0,1.024997885199546,44134.0,3565185.72,USD,11200.0,STK US Equity,HPQ US Equity,HP Inc,HPQ
+34,FFIV US Equity,26600.0,1.016665583871511,44134.0,3536204.0,USD,1700.0,STK US Equity,FFIV US Equity,F5 Networks Inc,FFIV
+35,DELL US Equity,58900.0,1.020434734577906,44134.0,3549314.0,USD,15400.0,STK US Equity,DELL US Equity,Dell Technologies Inc,DELL
+36,EBAY US Equity,78354.0,1.072957611044887,44134.0,3732001.02,USD,4100.0,STK US Equity,EBAY US Equity,eBay Inc,EBAY
+37,MXIM US Equity,46900.0,0.9391495926962697,44134.0,3266585.0,USD,8000.0,STK US Equity,MXIM US Equity,Maxim Integrated Products Inc,MXIM
+38,ADI US Equity,27200.0,0.9269109217259789,44134.0,3224016.0,USD,4400.0,STK US Equity,ADI US Equity,Analog Devices Inc,ADI
+39,FISV US Equity,31900.0,0.875585209173905,44134.0,3045493.0,USD,0.0,STK US Equity,FISV US Equity,Fiserv Inc,FISV
+40,PLT US Equity,131536.0,0.7381850665762503,44134.0,2567582.72,USD,0.0,STK US Equity,PLT US Equity,Plantronics Inc,PLT
+41,PAGS US Equity,71158.0,0.7489697423799905,44134.0,2605094.38,USD,0.0,STK US Equity,PAGS US Equity,Pagseguro Digital Ltd,PAGS
+42,NLOK US Equity,182923.0,1.081791134666362,44134.0,3762726.11,USD,15100.0,STK US Equity,NLOK US Equity,NortonLifeLock Inc,NLOK
+43,FOXA US Equity,88300.0,0.6732479416915029,44134.0,2341716.0,USD,0.0,STK US Equity,FOXA US Equity,Fox Corp,FOXA
+44,INTC US Equity,54100.0,0.6887247472465475,44134.0,2395548.0,USD,0.0,STK US Equity,INTC US Equity,Intel Corp,INTC
+45,BOAS3 BZ Equity,181700.0,0.1218134077928697,44134.0,423695.92,USD,0.0,STK US Equity,BOAS3 BZ Equity,Boa Vista Servicos SA,BOAS3
+46,GPN US Equity,11757.0,0.5331865256934079,44134.0,1854549.18,USD,0.0,STK US Equity,GPN US Equity,Global Payments Inc,GPN
+47,G US Equity,52770.0,0.5214437151049884,44134.0,1813704.9,USD,0.0,STK US Equity,G US Equity,Genpact Ltd,G
+48,SAIL US Equity,43719.0,0.5217515693296185,44134.0,1814775.69,USD,-9200.0,STK US Equity,SAIL US Equity,Sailpoint Technologies Holding,SAIL
+49,SPLK US Equity,9258.0,0.5271217120801132,44134.0,1833454.32,USD,0.0,STK US Equity,SPLK US Equity,Splunk Inc,SPLK
+50,COMM US Equity,141900.0,0.3630891013434661,44134.0,1262910.0,USD,0.0,STK US Equity,COMM US Equity,CommScope Holding Co Inc,COMM
+51,VRNT US Equity,29761.0,0.4151539009362678,44134.0,1444003.72,USD,0.0,STK US Equity,VRNT US Equity,Verint Systems Inc,VRNT
+52,IPHI US Equity,10335.0,0.4152734672517351,44134.0,1444419.6,USD,0.0,STK US Equity,IPHI US Equity,Inphi Corp,IPHI
+53,ERIC US Equity,124800.0,0.4022175432076077,44134.0,1399008.0,USD,0.0,STK US Equity,ERIC US Equity,Telefonaktiebolaget LM Ericsso,ERIC
+54,VOD US Equity,86900.0,0.3375327645439142,44134.0,1174019.0,USD,0.0,STK US Equity,VOD US Equity,Vodafone Group PLC,VOD
+55,ST US Equity,29400.0,0.3694612948031556,44134.0,1285074.0,USD,-4500.0,STK US Equity,ST US Equity,Sensata Technologies Holding P,ST
+56,SGH US Equity,42224.0,0.3203609509285607,44134.0,1114291.36,USD,3605.0,STK US Equity,SGH US Equity,SMART Global Holdings Inc,SGH
+57,LITE US Equity,15000.0,0.3566030571072904,44134.0,1240350.0,USD,5900.0,STK US Equity,LITE US Equity,Lumentum Holdings Inc,LITE
+58,CSOD US Equity,29221.0,0.3191575913463972,44134.0,1110105.79,USD,0.0,STK US Equity,CSOD US Equity,Cornerstone OnDemand Inc,CSOD
+59,DXC US Equity,52100.0,0.2759104567669115,44134.0,959682.0,USD,0.0,STK US Equity,DXC US Equity,DXC Technology Co,DXC
+60,NLSN US Equity,65000.0,0.2524698468970589,44134.0,878150.0,USD,21100.0,STK US Equity,NLSN US Equity,Nielsen Holdings PLC,NLSN
+61,SCPL US Equity,60106.0,0.2306959146442957,44134.0,802415.1,USD,0.0,STK US Equity,SCPL US Equity,Sciplay Corp,SCPL
+62,RMBS US Equity,50600.0,0.2006113932115793,44134.0,697774.0,USD,0.0,STK US Equity,RMBS US Equity,Rambus Inc,RMBS
+63,TENB US Equity,19800.0,0.1941724992969787,44134.0,675378.0,USD,1200.0,STK US Equity,TENB US Equity,Tenable Holdings Inc,TENB
+64,MCFE US Equity,39894.0,0.1922305500524795,44134.0,668623.44,USD,39894.0,STK US Equity,MCFE US Equity,McAfee Corp,MCFE
+65,OOMA US Equity,20387.0,0.08270297792657372,44134.0,287660.57,USD,0.0,STK US Equity,OOMA US Equity,Ooma Inc,OOMA
+66,T US Equity,0.0,0.0,44134.0,0.0,USD,-52600.0,STK US Equity,T US Equity,AT&T Inc,T
+67,KRNT US Equity,0.0,0.0,44134.0,0.0,USD,-5479.0,STK US Equity,KRNT US Equity,Kornit Digital Ltd,KRNT
+68,TWTR US Equity,0.0,0.0,44134.0,0.0,USD,-44381.0,STK US Equity,TWTR US Equity,Twitter Inc,TWTR
+69,WDC 1 P40 20210115 PUT 40,-402.0,-0.05114228630106853,44134.0,-177885.0,USD,0.0,STK US Equity,WDC 1 P40 20210115 PUT 40,42,42
+70,AMT US Equity,0.0,0.0,44134.0,0.0,USD,-2600.0,STK US Equity,AMT US Equity,American Tower Corp,AMT
+71,WDC 1 C90 20210115 CALL 90,-401.0,-0.0002882207157254473,44134.0,-1002.5,USD,0.0,STK US Equity,WDC 1 C90 20210115 CALL 90,42,42
+72,0758519D US Equity,6132663.629999999,1.762976505242787,44134.0,6132050.37,USD,-556698.4199999981,STK US Equity,0758519D US Equity,RiverSource Short Term Investm,42
+73,CSCO US Equity,0.0,0.0,44134.0,0.0,USD,-54800.0,STK US Equity,CSCO US Equity,Cisco Systems Inc,CSCO
+74,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+75,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+76,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+77,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+78,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+79,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+80,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+81,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+82,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+83,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+84,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+85,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+86,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+87,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+88,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+89,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+90,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+91,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+92,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+93,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+94,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+95,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+96,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+97,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+98,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+99,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+100,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+101,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+102,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+103,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+104,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+105,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+106,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+107,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+108,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+109,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+110,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+111,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+112,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+113,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+114,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+115,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+116,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+117,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+118,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+119,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+120,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+121,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+122,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+123,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+124,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+125,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+126,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+127,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+128,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+129,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+130,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+131,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+132,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+133,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+134,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+135,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+136,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+137,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+138,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+139,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+140,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+141,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+142,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+143,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+144,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+145,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+146,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+147,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+148,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+149,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+150,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+151,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+152,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+153,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+154,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+155,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+156,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+157,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+158,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+159,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+160,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+161,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+162,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+163,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+164,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+165,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+166,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+167,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+168,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+169,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+170,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+171,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+172,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+173,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+174,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+175,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+176,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+177,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+178,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+179,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+180,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+181,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+182,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+183,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+184,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+185,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+186,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+187,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+188,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+189,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+190,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+191,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+192,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+193,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+194,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+195,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+196,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+197,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+198,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+199,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+200,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+201,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+202,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+203,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+204,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+205,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+206,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+207,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+208,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+209,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+210,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+211,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+212,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+213,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+214,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+215,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+216,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+217,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+218,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+219,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+220,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+221,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+222,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+223,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+224,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+225,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+226,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+227,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+228,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+229,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+230,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+231,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+232,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+233,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+234,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+235,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+236,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+237,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+238,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+239,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+240,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+241,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+242,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+243,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+244,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+245,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+246,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+247,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+248,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+249,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+250,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+251,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+252,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+253,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+254,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+255,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+256,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+257,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+258,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+259,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+260,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+261,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+262,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+263,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+264,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+265,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+266,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+267,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+268,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+269,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+270,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+271,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+272,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+273,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+274,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+275,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+276,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+277,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+278,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+279,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+280,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+281,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+282,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security

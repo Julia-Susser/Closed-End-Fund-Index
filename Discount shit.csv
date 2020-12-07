@@ -1,0 +1,151 @@
+Ticker,Fund Name,Strategy,"Closing
+Price","Price
+Change",NAV,"Premium/
+Discount","Distribution
+Rate†","Distribution
+Rate on NAV","1 Yr Rtn
+on NAV"
+IAF,Aberdeen Australia Equity Fund Inc,Equity-Single-Country Equity,$5.14,$0.01,$5.91,-13.03%,10.12%*,8.80%,9.79%
+AEF,Aberdeen Emerging Markets Equity Inc,Equity-Emerging Market Equity,$7.96,$0.11,$9.26,-14.04%,2.20%,1.89%,12.14%
+AGD,Aberdeen Global Dynamic Dividend,Equity-Global Equity,$10.23,$0.05,$11.80,-13.31%,7.62%,6.61%,9.28%
+AWP,Aberdeen Global Premier Properties,Equity-Real Estate,$5.26,$0.04,$5.96,-11.74%,9.13%,8.05%,-12.84%
+JEQ,Aberdeen Japan Equity Fund,Equity-Asia Equity,$9.55,-$0.02,$10.95,-12.79%,2.71%,2.37%,21.67%
+AOD,Aberdeen Total Dynamic Dividend,Equity-Global Equity,$8.85,$0.05,$10.13,-12.64%,7.80%,6.81%,9.70%
+ADX,Adams Diversified Equity Fund,Equity-U.S. Equity,$17.12,$0.12,$19.73,-13.23%,20.56%,17.84%,16.88%
+PEO,Adams Natural Resources Fund,Equity-Sector Equity,$11.79,$0.00,$14.25,-17.26%,14.59%,12.07%,-21.77%
+AIO,AllianzGI AI & Tech Opportunities Fund,Equity-Sector Equity,$24.99,$0.51,$27.88,-10.37%,5.20%,4.66%,40.12%
+NFJ,AllianzGI Div Interest & Prem Common,Equity-Covered-Call Funds,$13.22,$0.16,$15.12,-12.57%,6.81%*,5.95%,11.76%
+ASA,ASA Gold and Precious Metals Limited,Equity-Sector Equity,$21.07,$0.00,$25.28,-16.65%,0.09%,0.08%,62.44%
+BGR,BlackRock Energy and Resources,Equity-Sector Equity,$7.62,$0.00,$8.55,-10.88%,7.40%*,6.60%,-28.16%
+CII,BlackRock Enhanced Capital and Income,Equity-Covered-Call Funds,$17.29,$0.19,$19.01,-9.05%,6.07%*,5.52%,12.96%
+BDJ,BlackRock Enhanced Dividend Achievers,Equity-Covered-Call Funds,$8.47,$0.17,$9.33,-9.22%,7.08%*,6.43%,-0.62%
+BOE,BlackRock Enhanced Glbl Div Trust,Equity-Covered-Call Funds,$10.81,$0.13,$12.19,-11.32%,6.99%*,6.20%,6.84%
+BGY,BlackRock Enhanced Intl Div Trust,Equity-Covered-Call Funds,$5.83,$0.06,$6.44,-9.47%,6.96%*,6.30%,8.52%
+BME,BlackRock Health Sciences,Equity-Sector Equity,$46.62,-$0.21,$44.59,4.55%,5.15%*,5.38%,15.39%
+BMEZ,BlackRock Health Sciences Trust II,Equity-Sector Equity,$28.30,$0.04,$28.98,-2.35%,4.24%,4.14%,--
+BCX,BlackRock Resources&Commodities Strategy,Equity-Sector Equity,$7.17,$0.19,$8.45,-15.15%,6.69%*,5.68%,-0.85%
+BSTZ,BlackRock Science & Technology Trust II,Equity-Sector Equity,$33.76,$0.47,$35.39,-4.61%,4.09%,3.90%,81.28%
+BST,BlackRock Science and Technology Trust,Equity-Sector Equity,$49.87,$0.31,$48.57,2.68%,4.50%*,4.62%,61.11%
+BUI,"BlackRock Util, Infra & Power Opp",Equity-Sector Equity,$24.29,-$0.07,$23.30,4.25%,5.98%*,6.23%,16.73%
+BIF,Boulder Growth & Income,Equity-U.S. Equity,$11.15,$0.07,$13.58,-17.89%,3.66%*,3.00%,1.31%
+CPZ,Calamos L/S Equity & Dynamic Inc Trust,Equity-Global Equity,$17.94,$0.36,$21.06,-14.81%,7.36%,6.27%,7.26%
+IGR,CBRE Clarion Global Real Estate Income,Equity-Real Estate,$6.79,$0.11,$8.01,-15.23%,8.84%*,7.49%,-4.57%
+CEN,Center Coast Brookfield MLP & NRG Inf Fd,Equity-MLP,$10.61,$0.42,$13.44,-21.06%,25.45%,20.09%,-74.53%
+CET,Central Securities Corporation,Equity-U.S. Equity,$31.56,$0.37,$38.47,-17.96%,9.51%,7.80%,3.80%
+CHN,China Fund,Equity-Asia Equity,$29.58,$0.00,$33.04,-10.47%,0.45%,0.40%,46.66%
+EMO,ClearBridge Energy Midstream Opportunity,Equity-MLP,$15.07,$0.00,$19.74,-23.66%,8.63%,6.59%,-57.34%
+CEM,ClearBridge MLP and Midstream,Equity-MLP,$18.67,$0.00,$23.47,-20.45%,10.18%,8.10%,-60.86%
+CTR,ClearBridge MLP and Midstream TR,Equity-MLP,$16.29,$0.00,$20.83,-21.80%,9.82%,7.68%,-55.48%
+GLQ,Clough Global Equity,Equity-Global Equity,$13.32,$0.18,$15.68,-15.05%,9.95%*,8.45%,24.33%
+UTF,Cohen & Steers Infrastructure,Equity-Sector Equity,$25.78,$0.11,$24.78,4.04%,7.21%,7.51%,-0.67%
+MIE,Cohen & Steers MLP Income and Energy Opp,Equity-MLP,$2.62,$0.00,$3.11,-15.76%,6.87%,5.79%,-56.04%
+RQI,Cohen & Steers Qual Inc Realty,Equity-Real Estate,$12.37,$0.19,$13.18,-6.15%,7.76%,7.28%,-7.09%
+RNP,Cohen & Steers REIT & Preferred Inc Fd,Equity-Real Estate,$22.14,$0.07,$23.57,-6.07%,6.72%*,6.31%,0.02%
+RFI,Cohen & Steers Total Return,Equity-Real Estate,$13.42,$0.05,$13.17,1.90%,7.15%,7.29%,-2.37%
+STK,Columbia Seligman Premium Technology Gr,Equity-Covered-Call Funds,$26.35,$0.47,$26.74,-1.46%,7.02%*,6.92%,24.50%
+CLM,Cornerstone Strategic Value,Equity-U.S. Equity,$11.49,$0.10,$9.95,15.48%,19.35%*,22.35%,15.47%
+CRF,Cornerstone Total Return Fund,Equity-U.S. Equity,$11.36,$0.10,$9.56,18.83%,18.97%*,22.54%,14.62%
+SRV,Cushing® MLP & Infras Total Return,Equity-MLP,$22.75,$0.00,$29.93,-23.99%,6.33%,4.81%,-27.50%
+SZC,Cushing® NextGen Infrastructure Income,Equity-Sector Equity,$36.92,$0.92,$48.35,-23.64%,6.93%,5.29%,-13.03%
+DNP,DNP Select Income,Equity-Sector Equity,$10.35,-$0.04,$9.16,12.99%,7.54%*,8.52%,-2.73%
+DSE,Duff & Phelps Sel Enrg MLP Midstrm Enrg,Equity-MLP,$5.42,$0.00,$6.78,-20.06%,110.70%,88.50%,-82.78%
+DPG,Duff & Phelps Utility and Infra Fund Inc,Equity-Sector Equity,$12.03,$0.18,$13.61,-11.61%,11.64%*,10.29%,-4.84%
+GRF,Eagle Capital Growth,Equity-U.S. Equity,$7.40,$0.00,$9.33,-20.69%,7.43%,5.89%,7.52%
+EOI,Eaton Vance Enhanced Equity Income,Equity-Covered-Call Funds,$15.76,$0.15,$16.64,-5.29%,6.84%*,6.48%,12.97%
+EOS,Eaton Vance Enhanced Equity Income II,Equity-Covered-Call Funds,$20.70,$0.35,$20.79,-0.43%,5.73%*,5.70%,26.64%
+ETJ,Eaton Vance Risk-Mgd Divers Eq Inc,Equity-Covered-Call Funds,$10.14,$0.06,$9.99,1.50%,8.99%*,9.13%,18.44%
+ETG,Eaton Vance Tax Adv Global Dividend Inc,Equity-Global Equity,$17.45,$0.20,$19.16,-8.92%,7.05%,6.42%,11.30%
+ETB,Eaton Vance Tax-Managed Buy-Write Income,Equity-Covered-Call Funds,$14.46,$0.14,$14.45,0.07%,8.96%*,8.97%,3.80%
+ETV,Eaton Vance Tax-Managed Buy-Write Opp,Equity-Covered-Call Funds,$14.87,$0.23,$14.30,3.99%,8.94%*,9.30%,7.79%
+ETY,Eaton Vance Tax-Managed Divrs Equity Inc,Equity-Covered-Call Funds,$12.13,$0.08,$12.60,-3.73%,8.34%*,8.03%,12.23%
+EXG,Eaton Vance Tax-Mgd Glb Divrs Equity Inc,Equity-Covered-Call Funds,$8.47,$0.14,$9.15,-7.43%,8.73%*,8.08%,10.36%
+ETW,Eaton Vance Tx-Mgd Glbl Buy-Write Opp,Equity-Covered-Call Funds,$9.55,$0.15,$10.12,-5.63%,9.14%*,8.62%,5.97%
+EEA,European Equity Fund,Equity-Global Equity,$10.38,$0.05,$11.98,-13.36%,2.39%,2.07%,15.17%
+EXD,EV Tax-Managed Buy-Write Strategy Fund,Equity-Covered-Call Funds,$10.02,$0.16,$10.45,-4.11%,8.48%*,8.13%,8.51%
+FMO,Fiduciary-Claymore Energy Infrastructure,Equity-MLP,$6.59,$0.00,$8.25,-20.12%,14.87%,11.88%,-80.33%
+FDEU,First Trust Dynamic Europe Equity Income,Equity-Global Equity,$11.74,$0.15,$13.60,-13.71%,6.14%*,5.29%,-9.29%
+FEN,First Trust Energy Income And Growth,Equity-MLP,$11.42,$0.38,$13.30,-14.14%,10.51%*,9.02%,-27.07%
+FIF,First Trust Energy Infrastructure,Equity-MLP,$11.01,$0.21,$12.83,-14.19%,6.81%*,5.85%,-20.20%
+FFA,First Trust Enhanced Equity Income,Equity-Covered-Call Funds,$16.84,$0.19,$18.12,-7.06%,6.77%*,6.29%,15.26%
+FEI,First Trust MLP and Energy Income Fund,Equity-MLP,$6.22,$0.14,$7.20,-13.61%,9.65%,8.33%,-32.93%
+FPL,First Trust New Opps MLP & Energy Fund,Equity-MLP,$4.68,$0.12,$5.54,-15.52%,9.62%,8.12%,-36.05%
+FGB,First Trust Spec Finance & Fincl Opp,Equity-Sector Equity,$3.34,$0.02,$3.57,-6.44%,9.88%,9.24%,-34.25%
+FXBY,FOXBY CORP,Equity-U.S. Equity,$2.11,$0.03,$3.55,-40.56%,0.47%,0.28%,2.72%
+GDV,Gabelli Dividend & Income,Equity-U.S. Equity,$21.54,$0.43,$24.71,-12.83%,6.13%*,5.34%,8.26%
+GAB,Gabelli Equity,Equity-U.S. Equity,$6.58,$0.09,$5.90,11.53%,9.12%*,10.17%,10.30%
+GGZ,Gabelli Global Small & Mid Cap Value Tru,Equity-Global Equity,$12.43,$0.25,$14.79,-15.96%,5.15%,4.33%,10.59%
+GLU,Gabelli Global Utility & Income,Equity-Sector Equity,$18.08,$0.13,$19.18,-5.71%,6.64%*,6.26%,2.20%
+GGO,Gabelli Go Anywhere Trust,Equity-U.S. Equity,$12.06,$0.00,$13.90,-13.23%,1.66%*,1.44%,-19.76%
+GRX,Gabelli Healthcare & Wellness Trust,Equity-Sector Equity,$11.64,$0.12,$13.65,-14.73%,5.15%,4.40%,9.46%
+GGT,Gabelli Multimedia,Equity-Sector Equity,$8.18,$0.13,$8.07,1.36%,10.76%,10.90%,13.82%
+GUT,Gabelli Utility Trust,Equity-Sector Equity,$7.72,-$0.19,$4.13,86.92%,7.77%,14.53%,-4.81%
+GGN,GAMCO Global Gold Natural Resources&Inc,Equity-Sector Equity,$3.52,$0.00,$3.99,-11.78%,10.23%*,9.02%,6.55%
+GNT,"GAMCO Natural Resources, Gold & Inc Tr",Equity-Covered-Call Funds,$5.14,$0.03,$5.87,-12.44%,7.00%,6.13%,6.49%
+GAM,General American Investors,Equity-U.S. Equity,$36.49,$0.07,$43.30,-15.73%,6.85%,5.77%,6.31%
+GER,Goldman Sachs MLP and Energy Rena. Fund,Equity-MLP,$8.59,$0.00,$10.68,-19.57%,7.22%,5.81%,-71.13%
+GPM,Guggenheim Enhanced Equity Income Fund,Equity-Covered-Call Funds,$6.55,$0.10,$7.40,-11.49%,7.33%,6.49%,0.13%
+CUBA,Herzfeld Caribbean Basin,Equity-U.S. Equity,$4.91,$0.00,$6.24,-21.31%,12.65%,9.95%,-10.91%
+JOF,Japan Smaller Cap Fund,Equity-Asia Equity,$9.80,$0.15,$10.67,-8.15%,2.76%,2.53%,3.90%
+HTY,JH Tax Advantaged Global Shareholder Yld,Equity-Global Equity,$5.62,$0.10,$6.53,-13.94%,11.39%,9.80%,-7.89%
+BTO,JHancock Financial Opportunities,Equity-Sector Equity,$29.83,$0.50,$28.45,4.85%,7.38%*,7.73%,-18.52%
+HEQ,John Hancock Hedged Equity & Income Fund,Equity-Global Equity,$11.72,$0.25,$12.98,-9.71%,9.90%*,8.94%,-4.48%
+KMF,Kayne Anderson Midstream Energy Fund,Equity-MLP,$6.03,$0.33,$7.41,-18.62%,17.91%,14.57%,-32.00%
+KYN,Kayne Anderson MLP/Midstream,Equity-MLP,$6.83,$0.00,$7.65,-10.72%,8.78%,7.84%,-45.41%
+KF,Korea Fund,Equity-Asia Equity,$38.67,$0.00,$45.38,-14.79%,0.18%,0.16%,29.97%
+LGI,Lazard Global Total Return and Income,Equity-Global Equity,$17.51,-$0.06,$19.33,-9.42%,7.30%,6.61%,15.53%
+USA,Liberty All-Star Equity,Equity-U.S. Equity,$6.76,$0.07,$7.29,-7.27%,9.47%*,8.78%,17.06%
+ASG,Liberty All-Star Growth,Equity-U.S. Equity,$8.41,$0.16,$7.56,11.24%,6.18%*,6.88%,33.21%
+MCN,Madison Covered Call & Eq Strat,Equity-Covered-Call Funds,$6.53,$0.01,$7.24,-9.81%,11.03%,9.94%,10.19%
+MXE,Mexico Equity & Income,Equity-Emerging Market Equity,$9.75,$0.17,$11.71,-16.74%,1.23%,1.03%,-3.36%
+MXF,Mexico Fund,Equity-Emerging Market Equity,$13.55,$0.03,$15.81,-14.29%,5.31%*,4.55%,1.81%
+HIE,Miller/Howard High Income Equity Fund,Equity-U.S. Equity,$8.17,$0.44,$8.72,-6.31%,5.88%,5.50%,-12.52%
+CAF,Morgan Stanley China A Share,Equity-Asia Equity,$24.14,$0.18,$28.14,-14.21%,0.43%,0.37%,18.84%
+IIF,Morgan Stanley India Investment,Equity-Asia Equity,$20.44,$0.15,$24.30,-15.88%,22.22%,18.69%,1.46%
+MGU,MQ Global Infrastructure Ttl Ret,Equity-Sector Equity,$20.96,$0.20,$25.01,-16.19%,4.29%,3.60%,-4.80%
+MFD,MQ/FT Global Infrast Util Div&Inc,Equity-Sector Equity,$8.40,$0.08,$9.73,-13.67%,9.52%,8.22%,-6.75%
+NML,NB MLP and Energy Income Fund Inc.,Equity-MLP,$3.67,$0.00,$4.66,-21.24%,4.40%,3.46%,-36.79%
+NRO,Neuberger Real Estate Securities Income,Equity-Real Estate,$4.43,$0.09,$4.45,-0.45%,10.84%,10.79%,-16.53%
+GF,New Germany,Equity-Single-Country Equity,$19.34,$0.10,$22.29,-13.26%,3.52%,3.06%,31.74%
+IRL,New Ireland,Equity-Single-Country Equity,$10.06,$0.29,$13.32,-24.47%,4.43%*,3.35%,10.10%
+JCE,Nuveen Core Equity Alpha,Equity-U.S. Equity,$13.93,$0.13,$15.15,-8.05%,6.46%*,5.94%,6.87%
+DIAX,Nuveen Dow 30 Dynamic Overwrite,Equity-Covered-Call Funds,$15.14,$0.17,$16.78,-9.77%,7.21%*,6.51%,-3.15%
+QQQX,Nuveen NASDAQ 100 Dynamic Overwrite,Equity-Covered-Call Funds,$25.86,$0.21,$26.39,-2.01%,6.03%*,5.91%,16.64%
+JRS,Nuveen Real Estate Income,Equity-Real Estate,$8.69,$0.16,$9.87,-11.96%,8.75%*,7.70%,-9.14%
+BXMX,Nuveen S&P 500 Buy-Write Income,Equity-Covered-Call Funds,$12.72,$0.13,$13.81,-7.89%,6.76%*,6.23%,6.67%
+SPXX,Nuveen S&P 500 Dynamic Overwrite,Equity-Covered-Call Funds,$15.01,$0.17,$16.22,-7.46%,6.53%*,6.04%,5.50%
+PGZ,Principal Real Estate Income Fund,Equity-Real Estate,$11.76,$0.24,$14.80,-20.54%,8.16%*,6.49%,-29.78%
+UTG,Reaves Utility Income,Equity-Sector Equity,$33.05,-$0.13,$32.61,1.35%,6.54%*,6.62%,-3.27%
+RGT,Royce Global ValueTrust Fund,Equity-Global Equity,$14.80,$0.10,$15.64,-5.37%,0.41%,0.38%,17.55%
+RMT,Royce Micro-Cap Trust,Equity-U.S. Equity,$9.96,$0.31,$11.59,-14.06%,6.02%*,5.18%,27.40%
+RVT,Royce Value Trust,Equity-U.S. Equity,$16.14,$0.38,$18.17,-11.17%,6.20%*,5.50%,15.53%
+SMM,Salient Midstream & MLP Fund,Equity-MLP,$4.73,$0.00,$6.14,-22.96%,5.07%,3.91%,-29.13%
+SPE,Special Opportunities,Equity-U.S. Equity,$13.51,$0.00,$15.59,-13.34%,8.35%,7.24%,4.66%
+FUND,Sprott Focus Trust,Equity-U.S. Equity,$7.09,$0.13,$8.17,-13.22%,6.04%*,5.24%,5.82%
+CEF,Sprott Physical Gold and Silver Trust,Equity-Commodities,$18.17,$0.00,$18.96,-4.17%,0.00%,--,25.14%
+PHYS,Sprott Physical Gold Trust Unit,Equity-Commodities,$14.40,$0.00,$14.74,-2.31%,0.00%,--,21.69%
+SPPP,Sprott Physical Platinum & Palladium Tr,Equity-Commodities,$17.43,$0.00,$17.49,-0.34%,0.00%,--,23.24%
+PSLV,Sprott Physical Silver Trust Unit,Equity-Commodities,$8.42,$0.00,$8.79,-4.21%,0.00%,--,29.81%
+BANX,STONECASTLE FINANCIAL CORP,Equity-Sector Equity,$19.00,$0.00,$21.04,-8.02%,0.00%,7.36%,-1.54%
+SWZ,Swiss Helvetia,Equity-Single-Country Equity,$8.78,$0.12,$10.18,-13.75%,3.13%,2.70%,12.84%
+TWN,Taiwan Fund,Equity-Asia Equity,$27.90,$0.00,$32.75,-14.81%,2.37%,2.02%,40.35%
+HQH,Tekla Healthcare Investors,Equity-Sector Equity,$22.37,$0.20,$25.03,-10.63%,8.58%*,7.67%,14.36%
+THQ,TEKLA HEALTHCARE OPPORTUNITIES FUND,Equity-Sector Equity,$19.70,$0.28,$21.53,-8.50%,6.85%*,6.27%,10.15%
+HQL,Tekla Life Sciences Investors,Equity-Sector Equity,$18.93,$0.04,$21.11,-10.33%,8.45%*,7.58%,16.45%
+THW,Tekla World Healthcare Fund,Equity-Sector Equity,$15.69,$0.10,$14.72,6.59%,8.93%*,9.51%,9.75%
+TDF,Templeton Dragon,Equity-Asia Equity,$25.30,$0.05,$27.10,-6.64%,20.37%,19.02%,42.11%
+EMF,Templeton Emerging Markets,Equity-Emerging Market Equity,$18.31,$0.35,$20.13,-9.04%,6.27%,5.70%,17.98%
+CEE,The Central and Eastern Europe Fund,Equity-Emerging Market Equity,$23.89,$0.18,$28.19,-15.27%,6.12%,5.19%,-11.42%
+IFN,The India Fund Inc,Equity-Asia Equity,$19.45,$0.02,$22.01,-11.63%,8.64%*,7.63%,0.79%
+NDP,"Tortoise Energy Independence Fund, Inc",Equity-Sector Equity,$13.82,$0.58,$17.73,-22.05%,23.15%,18.05%,-49.58%
+TYG,Tortoise Energy Infrastructure Corp.,Equity-MLP,$21.88,$0.87,$27.85,-21.44%,5.48%,4.31%,-62.14%
+TEAF,Tortoise Essential Assets Income Term,Equity-Sector Equity,$13.39,-$0.09,$16.21,-17.40%,6.72%*,5.55%,-2.83%
+NTG,Tortoise Midstream Energy Fund,Equity-MLP,$22.49,$1.29,$28.79,-21.88%,5.51%,4.31%,-74.57%
+TTP,Tortoise Pipeline & Energy,Equity-MLP,$17.95,$1.25,$22.21,-19.18%,3.57%,2.88%,-59.69%
+IAE,Voya Asia Pacific High Div Eq Inc Fd,Equity-Asia Equity,$8.86,$0.08,$9.66,-8.28%,9.71%,8.90%,11.53%
+IHD,Voya Emerging Markets High Div Eq Fd,Equity-Emerging Market Equity,$7.54,$0.02,$8.23,-8.38%,9.55%,8.75%,8.63%
+IGA,Voya Global Advantage and Premium Opp Fd,Equity-Covered-Call Funds,$8.61,-$0.03,$9.97,-13.64%,9.15%,7.90%,-6.58%
+IGD,Voya Global Equity Dividend&Prm Opp Fd,Equity-Covered-Call Funds,$5.18,$0.00,$6.02,-13.95%,9.27%,7.97%,-6.47%
+IDE,Voya Infrastructure Industrials&Matls Fd,Equity-Global Equity,$10.39,-$0.09,$12.22,-14.98%,8.82%*,7.50%,0.32%
+IID,Voya International High Div Eq Inc Fd,Equity-Global Equity,$4.55,$0.05,$5.27,-13.66%,7.91%,6.83%,-5.15%
+IRR,Voya Natural Resources Equity Income Fd,Equity-Covered-Call Funds,$2.71,$0.09,$3.17,-14.51%,11.37%,9.72%,-23.09%
+EOD,Wells Fargo Global Dividend Opp Fd,Equity-Global Equity,$4.90,$0.03,$5.55,-11.71%,10.63%,9.39%,1.77%
