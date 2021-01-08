@@ -1,0 +1,220 @@
+,ID,ID.POSITION,ID.WEIGHTS,ID.AS_OF_DATE,ID.REPORTED_MKT_VAL,ID.CURRENCY,ID.LATEST_CHANGE,ID.ORIG_IDS,ID,,
+1,EPD US Equity,775611.0,12.32792596389139,44134.0,12851874.27,USD,0.0,CTR US Equity,EPD US Equity,Enterprise Products Partners L,EPD
+2,TRGP US Equity,515670.0,7.939085011597145,44134.0,8276503.5,USD,0.0,CTR US Equity,TRGP US Equity,Targa Resources Corp,TRGP
+3,MPLX US Equity,543829.0,8.977735011687457,44134.0,9359297.09,USD,0.0,CTR US Equity,MPLX US Equity,MPLX LP,MPLX
+4,MMP US Equity,240130.0,8.186295055090545,44134.0,8534220.2,USD,0.0,CTR US Equity,MMP US Equity,Magellan Midstream Partners LP,MMP
+5,WES US Equity,669266.0,5.23214680032194,44134.0,5454517.9,USD,0.0,CTR US Equity,WES US Equity,Western Midstream Partners LP,WES
+6,ET US Equity,1475986.0,7.291435133100011,44134.0,7601327.9,USD,0.0,CTR US Equity,ET US Equity,Energy Transfer LP,ET
+7,WMB US Equity,409727.0,7.54211426702719,44134.0,7862661.13,USD,0.0,CTR US Equity,WMB US Equity,Williams Cos Inc/The,WMB
+8,ENB CN Equity,209085.0,5.527460398071261,44134.0,5762382.6,USD,0.0,CTR US Equity,ENB CN Equity,Enbridge Inc,ENB
+9,ENBL US Equity,1481741.0,6.324931965600196,44134.0,6593747.45,USD,0.0,CTR US Equity,ENBL US Equity,Enable Midstream Partners LP,ENBL
+10,OKE US Equity,213971.0,5.9521855831363,44134.0,6205159.0,USD,0.0,CTR US Equity,OKE US Equity,ONEOK Inc,OKE
+11,DKL US Equity,269688.0,6.860546174151179,44134.0,7152125.76,USD,0.0,CTR US Equity,DKL US Equity,Delek Logistics Partners LP,DKL
+12,DCP US Equity,427538.0,5.237079515350724,44134.0,5459660.26,USD,0.0,CTR US Equity,DCP US Equity,DCP Midstream LP,DCP
+13,BPMP US Equity,636095.0,5.918576500376433,44134.0,6170121.5,USD,0.0,CTR US Equity,BPMP US Equity,BP Midstream Partners LP,BPMP
+14,JTSXX US Equity,6718464.959999997,6.444564962109496,44134.0,6718464.96,USD,1762484.759999998,CTR US Equity,JTSXX US Equity,JPMorgan 100% US Treasury Secu,JTSXX
+15,AM US Equity,942032.0,5.177782781620907,44134.0,5397843.36,USD,0.0,CTR US Equity,AM US Equity,Antero Midstream Corp,AM
+16,KMI US Equity,450600.0,5.143534984801917,44134.0,5362140.0,USD,0.0,CTR US Equity,KMI US Equity,Kinder Morgan Inc,KMI
+17,TCP US Equity,199335.0,5.382518225074886,44134.0,5611280.25,USD,0.0,CTR US Equity,TCP US Equity,TC PipeLines LP,TCP
+18,PBFX US Equity,628112.0,4.422386543503982,44134.0,4610342.08,USD,0.0,CTR US Equity,PBFX US Equity,PBF Logistics LP,PBFX
+19,NBLX US Equity,496361.0,3.794718124419052,44134.0,3955997.17,USD,0.0,CTR US Equity,NBLX US Equity,Noble Midstream Partners LP,NBLX
+20,PAA US Equity,508956.0,3.051292244939572,44134.0,3180975.0,USD,0.0,CTR US Equity,PAA US Equity,Plains All American Pipeline L,PAA
+21,SPH US Equity,247767.0,3.907228633270599,44134.0,4073289.48,USD,0.0,CTR US Equity,SPH US Equity,Suburban Propane Partners LP,SPH
+22,NS US Equity,240210.0,2.278824731867457,44134.0,2375676.9,USD,0.0,CTR US Equity,NS US Equity,NuStar Energy LP,NS
+23,GEL US Equity,534610.0,2.153822541102023,44134.0,2245362.0,USD,0.0,CTR US Equity,GEL US Equity,Genesis Energy LP,GEL
+24,SHLX US Equity,286790.0,2.407108166711283,44134.0,2509412.5,USD,0.0,CTR US Equity,SHLX US Equity,Shell Midstream Partners LP,SHLX
+25,PAGP US Equity,312365.0,1.914638437698697,44134.0,1996012.35,USD,0.0,CTR US Equity,PAGP US Equity,Plains GP Holdings LP,PAGP
+26,RTLR US Equity,295000.0,1.661053675665358,44134.0,1731650.0,USD,0.0,CTR US Equity,RTLR US Equity,Rattler Midstream LP,RTLR
+27,ETRN US Equity,277205.0,1.930461876835411,44134.0,2012508.3,USD,0.0,CTR US Equity,ETRN US Equity,Equitrans Midstream Corp,ETRN
+28,BIP US Equity,32180.0,1.324240546552069,44134.0,1380522.0,USD,0.0,CTR US Equity,BIP US Equity,Brookfield Infrastructure Part,BIP
+29,HEP US Equity,97340.0,1.070038758689682,44134.0,1115516.4,USD,0.0,CTR US Equity,HEP US Equity,Holly Energy Partners LP,HEP
+30,CNX US Equity,0.0,0.0,44134.0,0.0,USD,-315040.0,CTR US Equity,CNX US Equity,CNX Resources Corp,CNX
+31,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+32,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+33,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+34,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+35,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+36,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+37,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+38,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+39,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+40,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+41,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+42,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+43,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+44,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+45,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+46,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+47,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+48,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+49,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+50,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+51,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+52,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+53,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+54,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+55,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+56,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+57,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+58,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+59,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+60,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+61,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+62,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+63,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+64,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+65,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+66,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+67,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+68,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+69,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+70,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+71,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+72,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+73,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+74,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+75,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+76,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+77,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+78,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+79,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+80,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+81,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+82,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+83,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+84,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+85,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+86,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+87,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+88,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+89,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+90,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+91,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+92,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+93,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+94,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+95,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+96,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+97,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+98,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+99,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+100,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+101,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+102,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+103,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+104,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+105,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+106,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+107,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+108,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+109,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+110,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+111,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+112,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+113,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+114,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+115,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+116,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+117,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+118,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+119,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+120,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+121,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+122,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+123,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+124,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+125,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+126,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+127,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+128,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+129,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+130,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+131,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+132,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+133,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+134,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+135,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+136,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+137,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+138,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+139,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+140,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+141,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+142,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+143,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+144,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+145,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+146,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+147,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+148,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+149,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+150,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+151,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+152,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+153,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+154,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+155,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+156,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+157,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+158,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+159,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+160,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+161,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+162,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+163,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+164,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+165,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+166,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+167,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+168,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+169,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+170,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+171,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+172,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+173,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+174,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+175,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+176,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+177,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+178,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+179,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+180,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+181,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+182,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+183,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+184,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+185,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+186,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+187,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+188,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+189,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+190,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+191,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+192,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+193,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+194,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+195,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+196,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+197,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+198,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+199,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+200,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+201,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+202,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+203,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+204,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+205,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+206,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+207,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+208,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+209,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+210,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+211,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+212,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+213,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+214,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+215,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+216,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+217,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+218,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+219,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
