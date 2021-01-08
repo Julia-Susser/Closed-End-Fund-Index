@@ -1,0 +1,360 @@
+,ID,ID.POSITION,ID.WEIGHTS,ID.AS_OF_DATE,ID.REPORTED_MKT_VAL,ID.CURRENCY,ID.LATEST_CHANGE,ID.ORIG_IDS,ID,,
+1,MSFT US Equity,331000.0,9.353545032430208,44104.0,69619230.0,USD,0.0,CLM US Equity,MSFT US Equity,Microsoft Corp,MSFT
+2,AMZN US Equity,20000.0,8.460819762000806,44104.0,62974600.0,USD,4000.0,CLM US Equity,AMZN US Equity,Amazon.com Inc,AMZN
+3,AAPL US Equity,400000.0,6.223763464236778,44104.0,46324000.0,USD,-48000.0,CLM US Equity,AAPL US Equity,Apple Inc,AAPL
+4,GOOG US Equity,21000.0,4.146345275189745,44104.0,30861600.0,USD,-2000.0,CLM US Equity,GOOG US Equity,Alphabet Inc,GOOG
+5,JNJ US Equity,139700.0,2.794343503721901,44104.0,20798536.0,USD,0.0,CLM US Equity,JNJ US Equity,Johnson & Johnson,JNJ
+6,BRK/B US Equity,80000.0,2.288728420817856,44104.0,17035200.0,USD,0.0,CLM US Equity,BRK/B US Equity,Berkshire Hathaway Inc,BRK/B
+7,PG US Equity,130000.0,2.427582136824434,44104.0,18068700.0,USD,0.0,CLM US Equity,PG US Equity,Procter & Gamble Co/The,PG
+8,CMCSA US Equity,280000.0,1.740246166124819,44104.0,12952800.0,USD,0.0,CLM US Equity,CMCSA US Equity,Comcast Corp,CMCSA
+9,VZ US Equity,202000.0,1.614516040809604,44104.0,12016980.0,USD,0.0,CLM US Equity,VZ US Equity,Verizon Communications Inc,VZ
+10,IGR US Equity,1676755.0,1.347155783496859,44104.0,10026994.9,USD,667500.0,CLM US Equity,IGR US Equity,CBRE Clarion Global Real Estat,IGR
+11,WMT US Equity,73000.0,1.372203878735425,44104.0,10213430.0,USD,73000.0,CLM US Equity,WMT US Equity,Walmart Inc,WMT
+12,QQQ US Equity,36000.0,1.343829891039799,44104.0,10002240.0,USD,36000.0,CLM US Equity,QQQ US Equity,Invesco QQQ Trust Series 1,QQQ
+13,GAM US Equity,291877.0,1.331332942399247,44104.0,9909224.15,USD,14896.0,CLM US Equity,GAM US Equity,General American Investors Co,GAM
+14,ADBE US Equity,22000.0,1.449595176298337,44104.0,10789460.0,USD,0.0,CLM US Equity,ADBE US Equity,Adobe Inc,ADBE
+15,INTC US Equity,210000.0,1.460926499382995,44104.0,10873800.0,USD,0.0,CLM US Equity,INTC US Equity,Intel Corp,INTC
+16,NFLX US Equity,20000.0,1.343609552293548,44104.0,10000600.0,USD,0.0,CLM US Equity,NFLX US Equity,Netflix Inc,NFLX
+17,COST US Equity,25500.0,1.216229573439328,44104.0,9052500.0,USD,0.0,CLM US Equity,COST US Equity,Costco Wholesale Corp,COST
+18,TMO US Equity,20000.0,1.186389795669554,44104.0,8830400.0,USD,0.0,CLM US Equity,TMO US Equity,Thermo Fisher Scientific Inc,TMO
+19,ABBV US Equity,87000.0,1.02381338915956,44104.0,7620330.0,USD,17000.0,CLM US Equity,ABBV US Equity,AbbVie Inc,ABBV
+20,ABT US Equity,80000.0,1.169730036806646,44104.0,8706400.0,USD,0.0,CLM US Equity,ABT US Equity,Abbott Laboratories,ABT
+21,ACN US Equity,34000.0,1.032321957940108,44104.0,7683660.0,USD,0.0,CLM US Equity,ACN US Equity,Accenture PLC,ACN
+22,JPM US Equity,69000.0,0.8924565646412906,44104.0,6642630.0,USD,-4000.0,CLM US Equity,JPM US Equity,JPMorgan Chase & Co,JPM
+23,UPS US Equity,49000.0,1.096973914088657,44104.0,8164870.0,USD,0.0,CLM US Equity,UPS US Equity,United Parcel Service Inc,UPS
+24,CHTR US Equity,12000.0,1.006582630496915,44104.0,7492080.0,USD,0.0,CLM US Equity,CHTR US Equity,Charter Communications Inc,CHTR
+25,NVDA US Equity,14000.0,1.01800262649165,44104.0,7577080.0,USD,14000.0,CLM US Equity,NVDA US Equity,NVIDIA Corp,NVDA
+26,V US Equity,34000.0,0.913462639626901,44104.0,6798980.0,USD,0.0,CLM US Equity,V US Equity,Visa Inc,V
+27,MA US Equity,20000.0,0.9086823636563988,44104.0,6763400.0,USD,-40000.0,CLM US Equity,MA US Equity,Mastercard Inc,MA
+28,LMT US Equity,18000.0,0.9269059902061156,44104.0,6899040.0,USD,0.0,CLM US Equity,LMT US Equity,Lockheed Martin Corp,LMT
+29,ORCL US Equity,110000.0,0.8822954552638571,44104.0,6567000.0,USD,110000.0,CLM US Equity,ORCL US Equity,Oracle Corp,ORCL
+30,AMGN US Equity,27000.0,0.9219725519363899,44104.0,6862320.0,USD,0.0,CLM US Equity,AMGN US Equity,Amgen Inc,AMGN
+31,UNP US Equity,29000.0,0.7670515733296895,44104.0,5709230.0,USD,0.0,CLM US Equity,UNP US Equity,Union Pacific Corp,UNP
+32,KYN US Equity,906000.0,0.4856776508377535,44104.0,3614940.0,USD,0.0,CLM US Equity,KYN US Equity,Kayne Anderson Energy Infrastr,KYN
+33,LLY US Equity,38000.0,0.7557027843688036,44104.0,5624760.0,USD,9000.0,CLM US Equity,LLY US Equity,Eli Lilly and Co,LLY
+34,PFE US Equity,135000.0,0.6656514135990224,44104.0,4954500.0,USD,-15000.0,CLM US Equity,PFE US Equity,Pfizer Inc,PFE
+35,DE US Equity,21000.0,0.625309270100914,44104.0,4654230.0,USD,0.0,CLM US Equity,DE US Equity,Deere & Co,DE
+36,FIGXX US Equity,5406863.349999998,0.7264277388362591,44104.0,5406863.35,USD,5406863.349999998,CLM US Equity,FIGXX US Equity,Fidelity Government Portfolio,FIGXX
+37,NEE US Equity,72000.0,0.6712378069338589,44104.0,4996080.0,USD,-16000.0,CLM US Equity,NEE US Equity,NextEra Energy Inc,NEE
+38,LOW US Equity,35000.0,0.7799319852828106,44104.0,5805100.0,USD,0.0,CLM US Equity,LOW US Equity,Lowe's Cos Inc,LOW
+39,AMT US Equity,23000.0,0.746973876842004,44104.0,5559790.0,USD,0.0,CLM US Equity,AMT US Equity,American Tower Corp,AMT
+40,HON US Equity,24000.0,0.5307799173722559,44104.0,3950640.0,USD,0.0,CLM US Equity,HON US Equity,Honeywell International Inc,HON
+41,MRK US Equity,61000.0,0.6798189262771972,44104.0,5059950.0,USD,-84000.0,CLM US Equity,MRK US Equity,Merck & Co Inc,MRK
+42,BAC US Equity,166000.0,0.5372691621551468,44104.0,3998940.0,USD,-40000.0,CLM US Equity,BAC US Equity,Bank of America Corp,BAC
+43,GPM US Equity,702793.0,0.5146013904229212,44104.0,3830221.85,USD,318026.0,CLM US Equity,GPM US Equity,Guggenheim Enhanced Equity Inc,GPM
+44,TGT US Equity,25000.0,0.5287458145562525,44104.0,3935500.0,USD,0.0,CLM US Equity,TGT US Equity,Target Corp,TGT
+45,GDV US Equity,207144.0,0.51068776451317,44104.0,3801092.4,USD,207144.0,CLM US Equity,GDV US Equity,Gabelli Dividend & Income Trus,GDV
+46,BCX US Equity,624497.0,0.4992227267107023,44104.0,3715757.15,USD,-69000.0,CLM US Equity,BCX US Equity,BlackRock Resources & Commodit,BCX
+47,CVS US Equity,62000.0,0.4864649587969201,44104.0,3620800.0,USD,62000.0,CLM US Equity,CVS US Equity,CVS Health Corp,CVS
+48,ANTM US Equity,13000.0,0.469115969587506,44104.0,3491670.0,USD,13000.0,CLM US Equity,ANTM US Equity,Anthem Inc,ANTM
+49,SPGI US Equity,12000.0,0.5813718431578746,44104.0,4327200.0,USD,0.0,CLM US Equity,SPGI US Equity,S&P Global Inc,SPGI
+50,QCOM US Equity,26000.0,0.4110768628843792,44104.0,3059680.0,USD,-28000.0,CLM US Equity,QCOM US Equity,QUALCOMM Inc,QCOM
+51,DPG US Equity,324646.0,0.4501287779220604,44104.0,3350346.72,USD,324646.0,CLM US Equity,DPG US Equity,Duff & Phelps Utility and Infr,DPG
+52,GILD US Equity,63000.0,0.5348548406489656,44104.0,3980970.0,USD,0.0,CLM US Equity,GILD US Equity,Gilead Sciences Inc,GILD
+53,CAF US Equity,158477.0,0.4496837366475588,44104.0,3347034.24,USD,1000.0,CLM US Equity,CAF US Equity,Morgan Stanley China A Share F,CAF
+54,MGU US Equity,181888.0,0.4288724948547921,44104.0,3192134.4,USD,136188.0,CLM US Equity,MGU US Equity,Macquarie Global Infrastructur,MGU
+55,FISV US Equity,32000.0,0.4430421034381141,44104.0,3297600.0,USD,0.0,CLM US Equity,FISV US Equity,Fiserv Inc,FISV
+56,TFC US Equity,76965.0,0.3934549021824675,44104.0,2928518.25,USD,0.0,CLM US Equity,TFC US Equity,Truist Financial Corp,TFC
+57,SHW US Equity,5000.0,0.468045177021882,44104.0,3483700.0,USD,0.0,CLM US Equity,SHW US Equity,Sherwin-Williams Co/The,SHW
+58,RMT US Equity,365750.0,0.3769005095767225,44104.0,2805302.5,USD,194440.0,CLM US Equity,RMT US Equity,Royce Micro-Cap Trust Inc,RMT
+59,CI US Equity,16354.0,0.3722288767304695,44104.0,2770531.14,USD,0.0,CLM US Equity,CI US Equity,Cigna Corp,CI
+60,PLD US Equity,35000.0,0.4731505869959991,44104.0,3521700.0,USD,0.0,CLM US Equity,PLD US Equity,Prologis Inc,PLD
+61,APD US Equity,12000.0,0.4802202362812106,44104.0,3574320.0,USD,0.0,CLM US Equity,APD US Equity,Air Products and Chemicals Inc,APD
+62,IIF US Equity,159665.0,0.3721827412901797,44104.0,2770187.75,USD,118332.0,CLM US Equity,IIF US Equity,Morgan Stanley India Investmen,IIF
+63,DUK US Equity,34000.0,0.4045419381175095,44104.0,3011040.0,USD,0.0,CLM US Equity,DUK US Equity,Duke Energy Corp,DUK
+64,BDX US Equity,13000.0,0.4063960080554783,44104.0,3024840.0,USD,13000.0,CLM US Equity,BDX US Equity,Becton Dickinson and Co,BDX
+65,NSC US Equity,13000.0,0.373752285386762,44104.0,2781870.0,USD,0.0,CLM US Equity,NSC US Equity,Norfolk Southern Corp,NSC
+66,GER US Equity,395062.21,0.3174049556997005,44104.0,2362472.04,USD,131434.21,CLM US Equity,GER US Equity,Goldman Sachs MLP Energy and R,GER
+67,D US Equity,38000.0,0.4029700092570576,44104.0,2999340.0,USD,0.0,CLM US Equity,D US Equity,Dominion Energy Inc,D
+68,ADSK US Equity,11000.0,0.341405482613909,44104.0,2541110.0,USD,0.0,CLM US Equity,ADSK US Equity,Autodesk Inc,ADSK
+69,DG US Equity,14000.0,0.3942827511274153,44104.0,2934680.0,USD,0.0,CLM US Equity,DG US Equity,Dollar General Corp,DG
+70,VRTX US Equity,13000.0,0.4752814238957226,44104.0,3537560.0,USD,0.0,CLM US Equity,VRTX US Equity,Vertex Pharmaceuticals Inc,VRTX
+71,ICE US Equity,27000.0,0.3629341903573962,44104.0,2701350.0,USD,0.0,CLM US Equity,ICE US Equity,Intercontinental Exchange Inc,ICE
+72,WM US Equity,24000.0,0.3649132084868368,44104.0,2716080.0,USD,0.0,CLM US Equity,WM US Equity,Waste Management Inc,WM
+73,MMC US Equity,24000.0,0.3698466467565625,44104.0,2752800.0,USD,0.0,CLM US Equity,MMC US Equity,Marsh & McLennan Cos Inc,MMC
+74,EQIX US Equity,4000.0,0.4085026614342718,44104.0,3040520.0,USD,0.0,CLM US Equity,EQIX US Equity,Equinix Inc,EQIX
+75,IDE US Equity,251378.0,0.3211846707364174,44104.0,2390604.78,USD,115400.0,CLM US Equity,IDE US Equity,Voya Infrastructure Industrial,IDE
+76,PGR US Equity,29000.0,0.3688564659273719,44104.0,2745430.0,USD,0.0,CLM US Equity,PGR US Equity,Progressive Corp/The,PGR
+77,REGN US Equity,5000.0,0.3760403151725308,44104.0,2798900.0,USD,0.0,CLM US Equity,REGN US Equity,Regeneron Pharmaceuticals Inc,REGN
+78,BMEZ US Equity,89000.0,0.285184170567356,44104.0,2122650.0,USD,89000.0,CLM US Equity,BMEZ US Equity,Blackrock Health Sciences Trus,BMEZ
+79,AON US Equity,12000.0,0.3326040245243193,44104.0,2475600.0,USD,0.0,CLM US Equity,AON US Equity,Aon PLC,AON
+80,ROP US Equity,6000.0,0.3185050318221129,44104.0,2370660.0,USD,0.0,CLM US Equity,ROP US Equity,Roper Technologies Inc,ROP
+81,MCO US Equity,9000.0,0.3504796770784317,44104.0,2608650.0,USD,0.0,CLM US Equity,MCO US Equity,Moody's Corp,MCO
+82,NEM US Equity,41000.0,0.3495123362412306,44104.0,2601450.0,USD,0.0,CLM US Equity,NEM US Equity,Newmont Corp,NEM
+83,GD US Equity,16000.0,0.2975755379861142,44104.0,2214880.0,USD,0.0,CLM US Equity,GD US Equity,General Dynamics Corp,GD
+84,HUM US Equity,6000.0,0.3336439159243105,44104.0,2483340.0,USD,6000.0,CLM US Equity,HUM US Equity,Humana Inc,HUM
+85,CEM US Equity,144444.0,0.2144414871902642,44104.0,1596106.2,USD,-100000.0,CLM US Equity,CEM US Equity,ClearBridge MLP & Midstream Fu,CEM
+86,AEP US Equity,28000.0,0.3074585368728524,44104.0,2288440.0,USD,0.0,CLM US Equity,AEP US Equity,American Electric Power Co Inc,AEP
+87,NOC US Equity,8000.0,0.3390959563650913,44104.0,2523920.0,USD,0.0,CLM US Equity,NOC US Equity,Northrop Grumman Corp,NOC
+88,KMB US Equity,17000.0,0.337255321716528,44104.0,2510220.0,USD,0.0,CLM US Equity,KMB US Equity,Kimberly-Clark Corp,KMB
+89,MNST US Equity,26000.0,0.2801526546849695,44104.0,2085200.0,USD,0.0,CLM US Equity,MNST US Equity,Monster Beverage Corp,MNST
+90,SCD US Equity,185291.0,0.2539226973432637,44104.0,1889968.2,USD,67800.0,CLM US Equity,SCD US Equity,LMP Capital and Income Fund In,SCD
+91,EMR US Equity,28000.0,0.246666539370524,44104.0,1835960.0,USD,0.0,CLM US Equity,EMR US Equity,Emerson Electric Co,EMR
+92,IFN US Equity,106381.0,0.2358278211719206,44104.0,1755286.5,USD,106381.0,CLM US Equity,IFN US Equity,India Fund Inc/The,IFN
+93,RVT US Equity,128362.0,0.2179869902008895,44104.0,1622495.68,USD,128362.0,CLM US Equity,RVT US Equity,Royce Value Trust Inc,RVT
+94,SRE US Equity,15000.0,0.2385301281065101,44104.0,1775400.0,USD,0.0,CLM US Equity,SRE US Equity,Sempra Energy,SRE
+95,BIIB US Equity,7965.0,0.3035718688712935,44104.0,2259511.2,USD,3965.0,CLM US Equity,BIIB US Equity,Biogen Inc,BIIB
+96,JRI US Equity,142832.0,0.2314301043190105,44104.0,1722553.92,USD,34133.0,CLM US Equity,JRI US Equity,Nuveen Real Asset Income and G,JRI
+97,INFO US Equity,20000.0,0.2109609142462781,44104.0,1570200.0,USD,0.0,CLM US Equity,INFO US Equity,IHS Markit Ltd,INFO
+98,A US Equity,16000.0,0.2169852980157362,44104.0,1615040.0,USD,0.0,CLM US Equity,A US Equity,Agilent Technologies Inc,A
+99,GLO US Equity,172978.0,0.2170624864404291,44104.0,1615614.52,USD,172978.0,CLM US Equity,GLO US Equity,Clough Global Opportunities Fu,GLO
+100,RSG US Equity,19000.0,0.2382950105419126,44104.0,1773650.0,USD,0.0,CLM US Equity,RSG US Equity,Republic Services Inc,RSG
+101,EA US Equity,14000.0,0.2452934527932746,44104.0,1825740.0,USD,0.0,CLM US Equity,EA US Equity,Electronic Arts Inc,EA
+102,CTAS US Equity,5000.0,0.2235833686428122,44104.0,1664150.0,USD,-3000.0,CLM US Equity,CTAS US Equity,Cintas Corp,CTAS
+103,ORLY US Equity,4000.0,0.2477897295648298,44104.0,1844320.0,USD,0.0,CLM US Equity,ORLY US Equity,O'Reilly Automotive Inc,ORLY
+104,VRSK US Equity,9000.0,0.224072413177175,44104.0,1667790.0,USD,0.0,CLM US Equity,VRSK US Equity,Verisk Analytics Inc,VRSK
+105,ADP US Equity,10000.0,0.1874088519183119,44104.0,1394900.0,USD,-14000.0,CLM US Equity,ADP US Equity,Automatic Data Processing Inc,ADP
+106,GIS US Equity,28000.0,0.2320328221499759,44104.0,1727040.0,USD,28000.0,CLM US Equity,GIS US Equity,General Mills Inc,GIS
+107,XFDEX US Equity,124012.0,0.1674467795312508,44104.0,1246320.6,USD,-75788.0,CLM US Equity,XFDEX US Equity,First Trust Dynamic Europe Equ,XFDEX
+108,EBAY US Equity,32000.0,0.2239931449696821,44104.0,1667200.0,USD,32000.0,CLM US Equity,EBAY US Equity,eBay Inc,EBAY
+109,CSX US Equity,18000.0,0.187833407063528,44104.0,1398060.0,USD,0.0,CLM US Equity,CSX US Equity,CSX Corp,CSX
+110,MCK US Equity,9000.0,0.180082588605454,44104.0,1340370.0,USD,0.0,CLM US Equity,MCK US Equity,McKesson Corp,MCK
+111,CMI US Equity,7000.0,0.1985896997616282,44104.0,1478120.0,USD,-2000.0,CLM US Equity,CMI US Equity,Cummins Inc,CMI
+112,GLQ US Equity,121857.0,0.183528333248714,44104.0,1366016.97,USD,70357.0,CLM US Equity,GLQ US Equity,Clough Global Equity Fund,GLQ
+113,ALL US Equity,15000.0,0.1897197216960702,44104.0,1412100.0,USD,0.0,CLM US Equity,ALL US Equity,Allstate Corp/The,ALL
+114,NFJ US Equity,118500.0,0.1878656517581013,44104.0,1398300.0,USD,118500.0,CLM US Equity,NFJ US Equity,AllianzGI Dividend Interest &,NFJ
+115,ECL US Equity,7000.0,0.1879435764366537,44104.0,1398880.0,USD,-10000.0,CLM US Equity,ECL US Equity,Ecolab Inc,ECL
+116,CB US Equity,10000.0,0.1560105805774921,44104.0,1161200.0,USD,0.0,CLM US Equity,CB US Equity,Chubb Ltd,CB
+117,GRX US Equity,130458.0,0.1808828696800704,44104.0,1346326.56,USD,21000.0,CLM US Equity,GRX US Equity,Gabelli Healthcare & WellnessR,GRX
+118,FEN US Equity,138991.0,0.1691850184651384,44104.0,1259258.46,USD,19000.0,CLM US Equity,FEN US Equity,First Trust Energy Income and,FEN
+119,CPZ US Equity,85125.0,0.1660621923462702,44104.0,1236015.0,USD,85125.0,CLM US Equity,CPZ US Equity,Calamos Long/Short Equity & Dy,CPZ
+120,CME US Equity,8000.0,0.1798286616356887,44104.0,1338480.0,USD,-9000.0,CLM US Equity,CME US Equity,CME Group Inc,CME
+121,AWP US Equity,276000.0,0.170945248280725,44104.0,1272360.0,USD,173000.0,CLM US Equity,AWP US Equity,Aberdeen Global Premier Proper,AWP
+122,SBAC US Equity,5000.0,0.2139435484943149,44104.0,1592400.0,USD,0.0,CLM US Equity,SBAC US Equity,SBA Communications Corp,SBAC
+123,KR US Equity,40000.0,0.182236265497167,44104.0,1356400.0,USD,0.0,CLM US Equity,KR US Equity,Kroger Co/The,KR
+124,FAST US Equity,27000.0,0.1635652438102448,44104.0,1217430.0,USD,27000.0,CLM US Equity,FAST US Equity,Fastenal Co,FAST
+125,JTD US Equity,91352.0,0.16041341090155,44104.0,1193970.64,USD,91352.0,CLM US Equity,JTD US Equity,Nuveen Tax-Advantaged Dividend,JTD
+126,EXC US Equity,30000.0,0.1441337847429672,44104.0,1072800.0,USD,-30000.0,CLM US Equity,EXC US Equity,Exelon Corp,EXC
+127,BOE US Equity,116700.0,0.1500478647864056,44104.0,1116819.0,USD,116700.0,CLM US Equity,BOE US Equity,BlackRock Enhanced Global Divi,BOE
+128,ES US Equity,14000.0,0.1571525801769657,44104.0,1169700.0,USD,0.0,CLM US Equity,ES US Equity,Eversource Energy,ES
+129,CLX US Equity,6000.0,0.1694216864621333,44104.0,1261020.0,USD,0.0,CLM US Equity,CLX US Equity,Clorox Co/The,CLX
+130,CEE US Equity,50222.0,0.1325203313290231,44104.0,986360.08,USD,-2800.0,CLM US Equity,CEE US Equity,Central and Eastern Europe Fun,CEE
+131,STT US Equity,16000.0,0.1275385152692058,44104.0,949280.0,USD,0.0,CLM US Equity,STT US Equity,State Street Corp,STT
+132,MKC US Equity,12000.0,0.1564673804172816,44104.0,1164600.0,USD,12000.0,CLM US Equity,MKC US Equity,McCormick & Co Inc/MD,MKC
+133,DOW US Equity,20431.0,0.1291505551861779,44104.0,961278.55,USD,0.0,CLM US Equity,DOW US Equity,Dow Inc,DOW
+134,FTV US Equity,15000.0,0.1535855108397866,44104.0,1143150.0,USD,0.0,CLM US Equity,FTV US Equity,Fortive Corp,FTV
+135,EOD US Equity,201589.0,0.1145655973179405,44104.0,852721.47,USD,201589.0,CLM US Equity,EOD US Equity,Wells Fargo Global Dividend Op,EOD
+136,GDL US Equity,110168.0,0.1240356451189222,44104.0,923207.84,USD,17192.0,CLM US Equity,GDL US Equity,GDL Fund/The,GDL
+137,ATVI US Equity,12000.0,0.1305104012857181,44104.0,971400.0,USD,12000.0,CLM US Equity,ATVI US Equity,Activision Blizzard Inc,ATVI
+138,CTR US Equity,56100.0,0.07544734553881938,44104.0,561561.0,USD,-41500.0,CLM US Equity,CTR US Equity,ClearBridge MLP & Midstream To,CTR
+139,NML US Equity,230500.0,0.07370465415002275,44104.0,548590.0,USD,0.0,CLM US Equity,NML US Equity,Neuberger Berman MLP & Energy,NML
+140,DIAX US Equity,51997.0,0.09451986875786664,44104.0,703519.41,USD,51997.0,CLM US Equity,DIAX US Equity,Nuveen Dow 30sm Dynamic Overwr,DIAX
+141,PAYX US Equity,8000.0,0.08573864287059282,44104.0,638160.0,USD,-12000.0,CLM US Equity,PAYX US Equity,Paychex Inc,PAYX
+142,FEI US Equity,121000.0,0.07543108883863864,44104.0,561440.0,USD,0.0,CLM US Equity,FEI US Equity,First Trust MLP and Energy Inc,FEI
+143,KMF US Equity,126262.0,0.06836357039032682,44104.0,508835.86,USD,-260000.0,CLM US Equity,KMF US Equity,Kayne Anderson NextGen Energy,KMF
+144,GGZ US Equity,56996.0,0.07726495747545724,44104.0,575089.64,USD,16000.0,CLM US Equity,GGZ US Equity,Gabelli Global Small and Mid C,GGZ
+145,MXF US Equity,48985.0,0.06752389704717321,44104.0,502586.1,USD,32899.0,CLM US Equity,MXF US Equity,Mexico Fund Inc/The,MXF
+146,EMO US Equity,47486.0,0.05595156099292584,44104.0,416452.22,USD,-72900.0,CLM US Equity,EMO US Equity,ClearBridge Energy Midstream O,EMO
+147,HRL US Equity,13000.0,0.08539066887498853,44104.0,635570.0,USD,0.0,CLM US Equity,HRL US Equity,Hormel Foods Corp,HRL
+148,JTA US Equity,61252.0,0.06591736156827051,44104.0,490628.52,USD,61252.0,CLM US Equity,JTA US Equity,Nuveen Tax-Advantaged Total Re,JTA
+149,BGY US Equity,88000.0,0.06230749814727675,44104.0,463760.0,USD,88000.0,CLM US Equity,BGY US Equity,BlackRock Enhanced Internation,BGY
+150,FIF US Equity,42000.0,0.05050325287554194,44104.0,375900.0,USD,-13000.0,CLM US Equity,FIF US Equity,First Trust Energy Infrastruct,FIF
+151,SWZ US Equity,50868.0,0.0565876977627587,44104.0,421187.04,USD,-1459.0,CLM US Equity,SWZ US Equity,Swiss Helvetia Fund Inc/The,SWZ
+152,HEQ US Equity,38372.0,0.05444091048745282,44104.0,405208.32,USD,38372.0,CLM US Equity,HEQ US Equity,John Hancock Hedged Equity & I,HEQ
+153,FUND US Equity,62824.0,0.0502214879861283,44104.0,373802.8,USD,-21692.0,CLM US Equity,FUND US Equity,Sprott Focus Trust Inc,FUND
+154,IGD US Equity,75650.0,0.05031079235480713,44104.0,374467.5,USD,-43650.0,CLM US Equity,IGD US Equity,Voya Global Equity Dividend an,IGD
+155,TWN US Equity,12832.0,0.03970409623012215,44104.0,295520.96,USD,-19000.0,CLM US Equity,TWN US Equity,Taiwan Fund Inc/The/MD,TWN
+156,JOF US Equity,32459.0,0.03780952829929812,44104.0,281419.53,USD,-24877.0,CLM US Equity,JOF US Equity,Japan Smaller Capitalization F,JOF
+157,IRL US Equity,23807.0,0.02689971592327615,44104.0,200216.87,USD,-7200.0,CLM US Equity,IRL US Equity,New Ireland Fund Inc/The,IRL
+158,JRS US Equity,26000.0,0.02637347310313616,44104.0,196300.0,USD,7046.0,CLM US Equity,JRS US Equity,Nuveen Real Estate Income Fund,JRS
+159,JEQ US Equity,23043.0,0.02561852135144513,44104.0,190680.83,USD,23043.0,CLM US Equity,JEQ US Equity,Aberdeen Japan Equity Fund Inc,JEQ
+160,MFD US Equity,17519.0,0.01807663373538823,44104.0,134545.92,USD,3462.0,CLM US Equity,MFD US Equity,Macquarie/First Trust Global I,MFD
+161,XTTPX US Equity,3436.0,0.005511940335066569,44104.0,41025.84,USD,0.0,CLM US Equity,XTTPX US Equity,Tortoise Pipeline & Energy Fun,XTTPX
+162,RGT US Equity,4000.0,0.006599414156016547,44104.0,49120.0,USD,4000.0,CLM US Equity,RGT US Equity,Royce Global Value Trust Inc,RGT
+163,KF US Equity,1000.0,0.003983563308751844,44104.0,29650.0,USD,-1000.0,CLM US Equity,KF US Equity,Korea Fund Inc/The,KF
+164,XRIFX US Equity,0.9299999999999997,1.133938425830205e-06,44104.0,8.44,USD,-32000.07,CLM US Equity,XRIFX US Equity,RMR Mortgage Trust,XRIFX
+165,IIM US Equity,0.8299999999999996,1.657914712647479e-06,44104.0,12.34,USD,0.8299999999999996,CLM US Equity,IIM US Equity,Invesco Value Municipal Income,IIM
+166,INSI US Equity,0.3499999999999999,9.565926056766657e-07,44104.0,7.12,USD,0.3499999999999999,CLM US Equity,INSI US Equity,Insight Select Income Fund,INSI
+167,AEF US Equity,0.0,0.0,44104.0,0.0,USD,-7100.0,CLM US Equity,AEF US Equity,Aberdeen Emerging Markets Equi,AEF
+168,MDT US Equity,0.0,0.0,44104.0,0.0,USD,-75000.0,CLM US Equity,MDT US Equity,Medtronic PLC,MDT
+169,GF US Equity,0.0,0.0,44104.0,0.0,USD,-12060.0,CLM US Equity,GF US Equity,New Germany Fund Inc/The,GF
+170,PEG US Equity,0.0,0.0,44104.0,0.0,USD,-25000.0,CLM US Equity,PEG US Equity,Public Service Enterprise Grou,PEG
+171,DEX US Equity,0.0,0.0,44104.0,0.0,USD,-33700.0,CLM US Equity,DEX US Equity,Delaware Enhanced Global Divid,DEX
+172,EW US Equity,0.0,0.0,44104.0,0.0,USD,-33000.0,CLM US Equity,EW US Equity,Edwards Lifesciences Corp,EW
+173,EEA US Equity,0.0,0.0,44104.0,0.0,USD,-13296.0,CLM US Equity,EEA US Equity,European Equity Fund Inc/The,EEA
+174,AOD US Equity,0.0,0.0,44104.0,0.0,USD,-73300.0,CLM US Equity,AOD US Equity,Aberdeen Total Dynamic Dividen,AOD
+175,PEP US Equity,0.0,0.0,44104.0,0.0,USD,-65000.0,CLM US Equity,PEP US Equity,PepsiCo Inc,PEP
+176,PM US Equity,0.0,0.0,44104.0,0.0,USD,-74000.0,CLM US Equity,PM US Equity,Philip Morris International In,PM
+177,GGN US Equity,0.0,0.0,44104.0,0.0,USD,-1261531.0,CLM US Equity,GGN US Equity,GAMCO Global Gold Natural Reso,GGN
+178,MXE/WD US Equity,4542.0,0.004698717046165693,44104.0,34972.95,USD,4542.0,CLM US Equity,MXE/WD US Equity,Mexico Equity and Income Fund,MXE/WD
+179,WLTW US Equity,0.0,0.0,44104.0,0.0,USD,-8000.0,CLM US Equity,WLTW US Equity,Willis Towers Watson PLC,WLTW
+180,PPG US Equity,0.0,0.0,44104.0,0.0,USD,-11000.0,CLM US Equity,PPG US Equity,PPG Industries Inc,PPG
+181,ZBH US Equity,0.0,0.0,44104.0,0.0,USD,-9000.0,CLM US Equity,ZBH US Equity,Zimmer Biomet Holdings Inc,ZBH
+182,FRGXX US Equity,0.0,0.0,44104.0,0.0,USD,-4047757.0,CLM US Equity,FRGXX US Equity,Fidelity Government Portfolio,FRGXX
+183,AFL US Equity,0.0,0.0,44104.0,0.0,USD,-34000.0,CLM US Equity,AFL US Equity,Aflac Inc,AFL
+184,ADX US Equity,0.0,0.0,44104.0,0.0,USD,-60000.0,CLM US Equity,ADX US Equity,Adams Diversified Equity Fund,ADX
+185,CHN US Equity,0.0,0.0,44104.0,0.0,USD,-18800.0,CLM US Equity,CHN US Equity,China Fund Inc/The,CHN
+186,GNT US Equity,0.0,0.0,44104.0,0.0,USD,-171400.0,CLM US Equity,GNT US Equity,GAMCO Natural Resources Gold &,GNT
+187,TDG US Equity,0.0,0.0,44104.0,0.0,USD,-2500.0,CLM US Equity,TDG US Equity,TransDigm Group Inc,TDG
+188,BAX US Equity,0.0,0.0,44104.0,0.0,USD,-25000.0,CLM US Equity,BAX US Equity,Baxter International Inc,BAX
+189,BGR US Equity,0.0,0.0,44104.0,0.0,USD,-84000.0,CLM US Equity,BGR US Equity,BlackRock Energy and Resources,BGR
+190,NKE US Equity,0.0,0.0,44104.0,0.0,USD,-79000.0,CLM US Equity,NKE US Equity,NIKE Inc,NKE
+191,SBUX US Equity,0.0,0.0,44104.0,0.0,USD,-30000.0,CLM US Equity,SBUX US Equity,Starbucks Corp,SBUX
+192,SOR US Equity,0.0,0.0,44104.0,0.0,USD,-66524.0,CLM US Equity,SOR US Equity,Source Capital Inc,SOR
+193,TJX US Equity,0.0,0.0,44104.0,0.0,USD,-45000.0,CLM US Equity,TJX US Equity,TJX Cos Inc/The,TJX
+194,DLR US Equity,0.0,0.0,44104.0,0.0,USD,-10000.0,CLM US Equity,DLR US Equity,Digital Realty Trust Inc,DLR
+195,EL US Equity,0.0,0.0,44104.0,0.0,USD,-9000.0,CLM US Equity,EL US Equity,Estee Lauder Cos Inc/The,EL
+196,TDF US Equity,0.0,0.0,44104.0,0.0,USD,-78495.0,CLM US Equity,TDF US Equity,Templeton Dragon Fund Inc,TDF
+197,SPY US Equity,0.0,0.0,44104.0,0.0,USD,-30000.0,CLM US Equity,SPY US Equity,SPDR S&P 500 ETF Trust,SPY
+198,GMZ US Equity,0.0,0.0,44104.0,0.0,USD,-113500.0,CLM US Equity,GMZ US Equity,Goldman Sachs MLP Income Oppor,GMZ
+199,IVV US Equity,0.0,0.0,44104.0,0.0,USD,-30000.0,CLM US Equity,IVV US Equity,iShares Core S&P 500 ETF,IVV
+200,SMM US Equity,0.0,0.0,44104.0,0.0,USD,-60000.0,CLM US Equity,SMM US Equity,Salient Midstream & MLP Fund,SMM
+201,THQ US Equity,0.0,0.0,44104.0,0.0,USD,-66467.0,CLM US Equity,THQ US Equity,Tekla Healthcare Opportunities,THQ
+202,AXP US Equity,0.0,0.0,44104.0,0.0,USD,-35000.0,CLM US Equity,AXP US Equity,American Express Co,AXP
+203,EQR US Equity,0.0,0.0,44104.0,0.0,USD,-18000.0,CLM US Equity,EQR US Equity,Equity Residential,EQR
+204,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+205,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+206,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+207,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+208,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+209,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+210,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+211,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+212,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+213,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+214,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+215,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+216,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+217,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+218,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+219,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+220,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+221,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+222,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+223,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+224,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+225,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+226,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+227,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+228,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+229,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+230,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+231,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+232,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+233,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+234,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+235,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+236,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+237,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+238,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+239,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+240,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+241,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+242,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+243,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+244,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+245,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+246,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+247,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+248,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+249,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+250,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+251,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+252,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+253,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+254,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+255,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+256,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+257,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+258,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+259,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+260,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+261,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+262,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+263,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+264,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+265,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+266,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+267,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+268,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+269,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+270,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+271,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+272,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+273,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+274,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+275,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+276,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+277,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+278,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+279,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+280,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+281,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+282,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+283,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+284,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+285,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+286,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+287,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+288,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+289,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+290,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+291,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+292,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+293,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+294,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+295,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+296,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+297,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+298,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+299,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+300,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+301,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+302,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+303,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+304,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+305,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+306,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+307,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+308,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+309,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+310,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+311,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+312,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+313,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+314,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+315,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+316,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+317,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+318,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+319,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+320,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+321,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+322,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+323,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+324,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+325,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+326,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+327,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+328,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+329,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+330,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+331,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+332,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+333,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+334,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+335,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+336,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+337,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+338,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+339,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+340,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+341,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+342,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+343,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+344,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+345,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+346,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+347,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+348,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+349,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+350,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+351,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+352,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+353,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+354,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+355,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+356,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+357,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+358,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+359,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security

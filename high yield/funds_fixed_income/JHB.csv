@@ -1,0 +1,220 @@
+,ID,ID.POSITION,ID.WEIGHTS,ID.AS_OF_DATE,ID.REPORTED_MKT_VAL,ID.CURRENCY,ID.LATEST_CHANGE,ID.ORIG_IDS,ID,,
+1,EK553852     Corp,11375.0,2.253618882225995,44135.0,11847972.5,USD,0.0,JHB US Equity,EK553852     Corp,S 7 ¼ 09/15/21,S
+2,EI824506     Corp,11485.0,2.226630506609134,44135.0,11706086.25,USD,1500.0,JHB US Equity,EI824506     Corp,DISH 6 ¾ 06/01/21,DISH
+3,EJ053001     Corp,11195.0,2.214592743355947,44135.0,11642800.0,USD,0.0,JHB US Equity,EJ053001     Corp,LUMN 5.8 03/15/22,LUMN
+4,EI861769     Corp,10770.0,2.140762206600733,44135.0,11254650.0,USD,5000.0,JHB US Equity,EI861769     Corp,CSCHLD 6 ¾ 11/15/21,CSCHLD
+5,EJ007816     Corp,10675.0,2.086345116084289,44135.0,10968562.5,USD,4000.0,JHB US Equity,EJ007816     Corp,SATS 7 ⅝ 06/15/21,SATS
+6,QZ027453     Corp,9100.0,1.765541780656706,44135.0,9282000.0,USD,5000.0,JHB US Equity,QZ027453     Corp,NAVI 6 ⅝ 07/26/21,NAVI
+7,AN993603     Corp,9000.0,1.703342668151347,44135.0,8955000.0,USD,0.0,JHB US Equity,AN993603     Corp,STWD 5 12/15/21,STWD
+8,AM806385     Corp,8000.0,1.491313159694271,44135.0,7840295.2,USD,0.0,JHB US Equity,AM806385     Corp,DAL 3 ⅝ 03/15/22,DAL
+9,BL298137 Corp,8102379.07,1.528434468813922,44135.0,8035453.42,USD,0.0,JHB US Equity,BL298137 Corp, ,PETM
+10,EK730366     Corp,7737.0,1.506624648645742,44135.0,7920792.44,USD,0.0,JHB US Equity,EK730366     Corp,IGT 6 ¼ 02/15/22,IGT
+11,LW349766     Corp,7938.0,1.513536575428909,44135.0,7957130.58,USD,0.0,JHB US Equity,LW349766     Corp,DELL 5 ⅞ 06/15/21,DELL
+12,980883AC     Corp,7000.0,1.411368240947292,44135.0,7420000.0,USD,0.0,JHB US Equity,980883AC     Corp,FL 8 ½ 01/15/22,FL
+13,AR636815     Corp,7410.0,1.418275290711362,44135.0,7456312.5,USD,0.0,JHB US Equity,AR636815     Corp,CIT 4 ⅛ 03/09/21,CIT
+14,EK693903     Corp,7000.0,1.367853627711731,44135.0,7191230.2,USD,0.0,JHB US Equity,EK693903     Corp,AYR 5 ½ 02/15/22,AYR
+15,AM155852     Corp,6750.0,1.320903721352341,44135.0,6944400.0,USD,0.0,JHB US Equity,AM155852     Corp,EGYPT 6 ⅛ 01/31/22,EGYPT
+16,EK413571     Corp,7000.0,1.326486424569565,44135.0,6973750.0,USD,0.0,JHB US Equity,EK413571     Corp,LADR 5 ⅞ 08/01/21,LADR
+17,EK732095     Corp,6655.0,1.327567062820089,44135.0,6979431.25,USD,0.0,JHB US Equity,EK732095     Corp,NFLX 5 ½ 02/15/22,NFLX
+18,EK874546     Corp,6500.0,1.271288991976507,44135.0,6683560.0,USD,0.0,JHB US Equity,EK874546     Corp,ZFFNGR 4 ½ 04/29/22,ZFFNGR
+19,EI999410     Corp,6225.0,1.222547808240369,44135.0,6427312.5,USD,0.0,JHB US Equity,EI999410     Corp,NAVI 7 ¼ 01/25/22,NAVI
+20,EK508649     Corp,6475.0,1.228539465867032,44135.0,6458812.5,USD,0.0,JHB US Equity,EK508649     Corp,FLY 6 ⅜ 10/15/21,FLY
+21,EI870261     Corp,6199.0,1.167328976870073,44135.0,6137010.0,USD,0.0,JHB US Equity,EI870261     Corp,TEVA 3.65 11/10/21,TEVA
+22,EJ987162     Corp,6250.0,1.176932748094524,44135.0,6187500.0,USD,0.0,JHB US Equity,EJ987162     Corp,CLMT 7 ⅝ 01/15/22,CLMT
+23,EI619563     Corp,5897.0,1.118905809397509,44135.0,5882434.41,USD,0.0,JHB US Equity,EI619563     Corp,GNW 7 ⅝ 09/24/21,GNW
+24,EJ884287     Corp,5460.0,1.080096148166456,44135.0,5678400.0,USD,0.0,JHB US Equity,EJ884287     Corp,KBH 7 12/15/21,KBH
+25,EJ018963     Corp,5534.0,1.068419073191826,44135.0,5617010.0,USD,0.0,JHB US Equity,EJ018963     Corp,FCX 3.55 03/01/22,FCX
+26,AM840860     Corp,5429.0,1.065170657016203,44135.0,5599932.07,USD,0.0,JHB US Equity,AM840860     Corp,TMUS 4 04/15/22,TMUS
+27,AM752386     Corp,5500.0,1.038276993338455,44135.0,5458543.75,USD,0.0,JHB US Equity,AM752386     Corp,FTAI 6 ¾ 03/15/22,FTAI
+28,EJ278804     Corp,5205.0,1.053165787012329,44135.0,5536818.75,USD,0.0,JHB US Equity,EJ278804     Corp,MTH 7 04/01/22,MTH
+29,EI732373     Corp,5324.0,1.032879616846907,44135.0,5430168.07,USD,0.0,JHB US Equity,EI732373     Corp,TCKBCN 4 ¾ 01/15/22,TCKBCN
+30,EJ097173     Corp,5000.0,0.9989186978928329,44135.0,5251625.0,USD,0.0,JHB US Equity,EJ097173     Corp,MGM 7 ¾ 03/15/22,MGM
+31,EJ215167     Corp,5000.0,0.9772108272057562,44135.0,5137500.0,USD,0.0,JHB US Equity,EJ215167     Corp,WPX 6 01/15/22,WPX
+32,AN044679     Corp,5055.0,0.9591145945880847,44135.0,5042362.5,USD,0.0,JHB US Equity,AN044679     Corp,F 3.339 03/28/22,F
+33,EI783511     Corp,5000.0,0.9035039278301396,44135.0,4750000.0,USD,5000.0,JHB US Equity,EI783511     Corp,OXY 3 ⅛ 02/15/22,OXY
+34,AT941465     Corp,5000.0,0.9558120499676739,44135.0,5025000.0,USD,0.0,JHB US Equity,AT941465     Corp,F 3.813 10/12/21,F
+35,EK487819     Corp,5000.0,0.9492545420968624,44135.0,4990525.15,USD,0.0,JHB US Equity,EK487819     Corp,TWTR 1 09/15/21,TWTR
+36,JK522135     Corp,5000.0,0.9510567661369891,44135.0,5000000.0,USD,0.0,JHB US Equity,JK522135     Corp,NWL 3.65 04/01/21,NWL
+37,EI670517     Corp,4920.0,0.9416888569905397,44135.0,4950750.0,USD,2000.0,JHB US Equity,EI670517     Corp,WES 5 ⅜ 06/01/21,WES
+38,AN044719     Corp,4945.0,0.9079884134635752,44135.0,4773576.33,USD,0.0,JHB US Equity,AN044719     Corp,F Float 03/28/22,F
+39,EK747945     Corp,4585.0,0.9086576169486135,44135.0,4777094.54,USD,0.0,JHB US Equity,EK747945     Corp,ALLY 4 ⅛ 02/13/22,ALLY
+40,JK259397     Corp,4525.0,0.8660857881874373,44135.0,4553281.25,USD,0.0,JHB US Equity,JK259397     Corp,PHM 4 ¼ 03/01/21,PHM
+41,EK744881     Corp,4250.0,0.8225452206127283,44135.0,4324375.0,USD,0.0,JHB US Equity,EK744881     Corp,CCOI 5 ⅜ 03/01/22,CCOI
+42,EJ783697     Corp,4280.0,0.6675657652868753,44135.0,3509600.0,USD,0.0,JHB US Equity,EJ783697     Corp,PHH 6 ⅜ 08/15/21,PHH
+43,AR462796     Corp,4000.0,0.7695951351580516,44135.0,4046000.0,USD,0.0,JHB US Equity,AR462796     Corp,PEMEX 5 ⅜ 03/13/22,PEMEX
+44,EG337964     Corp,3825.0,0.7673922499234866,44135.0,4034418.75,USD,0.0,JHB US Equity,EG337964     Corp,HWM 5.87 02/23/22,HWM
+45,EJ464547     Corp,4000.0,0.7589432993773172,44135.0,3990000.0,USD,0.0,JHB US Equity,EJ464547     Corp,SWN 4.1 03/15/22,SWN
+46,EK153602     Corp,3946.0,0.7509492868352293,44135.0,3947973.0,USD,0.0,JHB US Equity,EK153602     Corp,NLSN 5 04/15/22,NLSN
+47,EI870253     Corp,3750.0,0.7059349616957145,44135.0,3711318.75,USD,0.0,JHB US Equity,EI870253     Corp,TEVA 3.65 11/10/21,TEVA
+48,EI846170     Corp,3625.0,0.6849225988217137,44135.0,3600850.25,USD,0.0,JHB US Equity,EI846170     Corp,TURKEY 5 ⅛ 03/25/22,TURKEY
+49,EI533449     Corp,3625.0,0.6757258323403307,44135.0,3552500.0,USD,0.0,JHB US Equity,EI533449     Corp,ESKOM 5 ¾ 01/26/21,ESKOM
+50,UV369500     Corp,3300.0,0.1608223676742923,44135.0,845493.0,USD,-1100.0,JHB US Equity,UV369500     Corp,EXIMUK 9 ⅝ 04/27/22,EXIMUK
+51,AM730883     Corp,3280.0,0.6051764414282889,44135.0,3181600.0,USD,0.0,JHB US Equity,AM730883     Corp,LADR 5 ¼ 03/15/22,LADR
+52,EJ930697     Corp,3000.0,0.5977391775170976,44135.0,3142500.0,USD,0.0,JHB US Equity,EJ930697     Corp,OMF 7 ¾ 10/01/21,OMF
+53,QZ793353     Corp,3000.0,0.5850551236384818,44135.0,3075816.0,USD,0.0,JHB US Equity,QZ793353     Corp,MTNSJ 5.373 02/13/22,MTNSJ
+54,AM131754     Corp,3000.0,0.5809317903993053,44135.0,3054138.36,USD,3000.0,JHB US Equity,AM131754     Corp,ADSEZ 3.95 01/19/22,ADSEZ
+55,EJ296745     Corp,3000.0,0.5760550832491742,44135.0,3028500.0,USD,0.0,JHB US Equity,EJ296745     Corp,PEMEX 4 ⅞ 01/24/22,PEMEX
+56,EK169756     Corp,3019.0,0.5785549359589653,44135.0,3041642.5,USD,0.0,JHB US Equity,EK169756     Corp,ACACN 7 ¾ 04/15/21,ACACN
+57,AZ988246     Corp,3000.0,0.557794793339344,44135.0,2932500.0,USD,0.0,JHB US Equity,AZ988246     Corp,OXY 2.6 08/13/21,OXY
+58,EI791565     Corp,2900.0,0.5571290536030482,44135.0,2929000.0,USD,0.0,JHB US Equity,EI791565     Corp,YUM 3 ¾ 11/01/21,YUM
+59,AP171057     Corp,2798.0,0.5326484244671372,44135.0,2800297.75,USD,0.0,JHB US Equity,AP171057     Corp,AVOL 3 ⅝ 03/15/21,AVOL
+60,EJ053009     Corp,2750.0,0.4969271603065767,44135.0,2612500.0,USD,0.0,JHB US Equity,EJ053009     Corp,BBDBCN 5 ¾ 03/15/22,BBDBCN
+61,AM915538     Corp,2900.0,0.4635811223771728,44135.0,2437189.55,USD,0.0,JHB US Equity,AM915538     Corp,EVERRE 8 ¼ 03/23/22,EVERRE
+62,QZ645242     Corp,2505.0,0.4767948026498284,44135.0,2506657.96,USD,2505.0,JHB US Equity,QZ645242     Corp,GS 2.35 11/15/21,GS
+63,JK279955     Corp,2500.0,0.4796892564203438,44135.0,2521875.0,USD,0.0,JHB US Equity,JK279955     Corp,LEN 4 ¾ 04/01/21,LEN
+64,EI827421     Corp,2172.0,0.4160531846385742,44135.0,2187320.46,USD,0.0,JHB US Equity,EI827421     Corp,OVV 5 ¾ 01/30/22,OVV
+65,EK563907     Corp,2059.0,0.4138995356127924,44135.0,2175998.06,USD,0.0,JHB US Equity,EK563907     Corp,SPLLLC 6 ¼ 03/15/22,SPLLLC
+66,LW148475     Corp,2000.0,0.3871299201711648,44135.0,2035261.9,USD,0.0,JHB US Equity,LW148475     Corp,AER 3.95 02/01/22,AER
+67,LW146061     Corp,2000.0,0.3943081352403956,44135.0,2073000.0,USD,0.0,JHB US Equity,LW146061     Corp,PETBRA 8 ⅜ 05/23/21,PETBRA
+68,AW595878     Corp,2000.0,0.386318497559432,44135.0,2030996.0,USD,0.0,JHB US Equity,AW595878     Corp,ROADKG 7 ¾ 04/18/21,ROADKG
+69,EK171101     Corp,2000.0,0.386751502292373,44135.0,2033272.44,USD,0.0,JHB US Equity,EK171101     Corp,AALLN 4 ⅛ 04/15/21,AALLN
+70,AN400460     Corp,2000.0,0.3813737632209326,44135.0,2005000.0,USD,0.0,JHB US Equity,AN400460     Corp,IEP 6 ¼ 02/01/22,IEP
+71,JK864214     Corp,2000.0,0.3828041525972026,44135.0,2012520.0,USD,0.0,JHB US Equity,JK864214     Corp,BNALCR 5 ⅞ 04/25/21,BNALCR
+72,EI543171     Corp,2000.0,0.3836562994596614,44135.0,2017000.0,USD,0.0,JHB US Equity,EI543171     Corp,PETBRA 5 ⅜ 01/27/21,PETBRA
+73,EJ987150     Corp,2000.0,0.382515031340297,44135.0,2011000.0,USD,0.0,JHB US Equity,EJ987150     Corp,HONDUR 8 ¾ 12/16/20,HONDUR
+74,EI815585     Corp,2000.0,0.3728180565527642,44135.0,1960020.0,USD,0.0,JHB US Equity,EI815585     Corp,COSICE 6.95 11/10/21,COSICE
+75,AN184582     Corp,1844.0,0.3629951276113514,44135.0,1908377.82,USD,0.0,JHB US Equity,AN184582     Corp,UCGIM 3 ¾ 04/12/22,UCGIM
+76,QZ932520     Corp,1850.0,0.3611911840605916,44135.0,1898893.93,USD,0.0,JHB US Equity,QZ932520     Corp,CNHI 3 ⅞ 10/15/21,CNHI
+77,EI546777     Corp,1750.0,0.3349403187278264,44135.0,1760885.0,USD,0.0,JHB US Equity,EI546777     Corp,NGERIA 6 ¾ 01/28/21,NGERIA
+78,LW832481     Corp,2100.0,0.2676273739909487,44135.0,1407000.0,USD,0.0,JHB US Equity,LW832481     Corp,SRILAN 5 ¾ 01/18/22,SRILAN
+79,852061AA     Corp,1475.0,0.309319324976479,44135.0,1626187.5,USD,0.0,JHB US Equity,852061AA     Corp,S 9 ¼ 04/15/22,S
+80,EI866854     Corp,1500.0,0.2972013115533649,44135.0,1562479.35,USD,0.0,JHB US Equity,EI866854     Corp,GLENLN 4.95 11/15/21,GLENLN
+81,EJ987138     Corp,1500.0,0.2868862735052227,44135.0,1508250.0,USD,0.0,JHB US Equity,EJ987138     Corp,HONDUR 8 ¾ 12/16/20,HONDUR
+82,AL140874     Corp,1353.0,0.2637201493807416,44135.0,1386458.51,USD,0.0,JHB US Equity,AL140874     Corp,CF 3.4 12/01/21,CF
+83,AN077573     Corp,3250.0,0.2658203661352884,44135.0,1397500.0,USD,0.0,JHB US Equity,AN077573     Corp,PDLLN 7 ¼ 05/01/22,PDLLN
+84,AS638306     Corp,1250.0,0.2437082963226034,44135.0,1281250.0,USD,0.0,JHB US Equity,AS638306     Corp,LEN 6 ¼ 12/15/21,LEN
+85,AM292352     Corp,1010.0,0.1948856488681056,44135.0,1024574.22,USD,0.0,JHB US Equity,AM292352     Corp,SFD 3.35 02/01/22,SFD
+86,AN101066     Corp,995.0,0.1944649546139455,44135.0,1022362.5,USD,0.0,JHB US Equity,AN101066     Corp,SLM 5 ⅛ 04/05/22,SLM
+87,AS775729     Corp,850.0,0.1647380833193074,44135.0,866079.13,USD,0.0,JHB US Equity,AS775729     Corp,MCHP 3.922 06/01/21,MCHP
+88,QZ697455     Corp,6700.0,0.08283704433053174,44135.0,435500.0,USD,0.0,JHB US Equity,QZ697455     Corp,VAHAU 7 ⅞ 10/15/21,VAHAU
+89,EJ007704     Corp,500.0,0.09890990367824685,44135.0,520000.0,USD,0.0,JHB US Equity,EJ007704     Corp,TOL 5 ⅞ 02/15/22,TOL
+90,EJ010990     Corp,448.0,0.08798416354886512,44135.0,462560.0,USD,0.0,JHB US Equity,EJ010990     Corp,LB 5 ⅝ 02/15/22,LB
+91,AM042770     Corp,450.0,0.08762799278994682,44135.0,460687.5,USD,0.0,JHB US Equity,AM042770     Corp,LEN 4 ⅛ 01/15/22,LEN
+92,EI963771     Corp,310.0,0.06226585386497951,44135.0,327350.88,USD,0.0,JHB US Equity,EI963771     Corp,FMEGR 5 ⅞ 01/31/22,FMEGR
+93,EK332679     Corp,325.0,0.06174141643665566,44135.0,324593.75,USD,0.0,JHB US Equity,EK332679     Corp,WCC 5 ⅜ 12/15/21,WCC
+94,ZO290323     Corp,582.0,0.04040659776609611,44135.0,212430.0,USD,0.0,JHB US Equity,ZO290323     Corp,ARGENT 0 ⅛ 07/09/30,ARGENT
+95,EG312721     Corp,180.00004,0.002190542419853875,44135.0,11516.36,USD,162.33332,JHB US Equity,EG312721     Corp,UAL 6.903 04/19/22,UAL
+96,EJ609132     Corp,120.0,0.02293948919922417,44135.0,120600.0,USD,0.0,JHB US Equity,EJ609132     Corp,GPK 4 ¾ 04/15/21,GPK
+97,ZO283134     Corp,35.37199999999999,0.002765271729971054,44135.0,14537.89,USD,0.0,JHB US Equity,ZO283134     Corp,ARGENT 1 07/09/29,ARGENT
+98,EJ038806     Corp,0.0,0.0,44135.0,0.0,USD,-2475.0,JHB US Equity,EJ038806     Corp,MXCN 5 ¼ 03/01/22,MXCN
+99,BL258305 Corp,6906992.77,1.312862220643807,44135.0,6902123.34,USD,0.0,JHB US Equity,BL258305 Corp, ,WHETEC
+100,BL265235 Corp,0.0,0.0,44135.0,0.0,USD,-2436709.819999998,JHB US Equity,BL265235 Corp, ,ACHC
+101,EJ916081     Corp,2440.0,0.4641157018748506,44135.0,2440000.0,USD,0.0,JHB US Equity,EJ916081     Corp,UAL 6 12/01/20,UAL
+102,BL283335 Corp,5000000.0,0.9467484789863885,44135.0,4977350.0,USD,0.0,JHB US Equity,BL283335 Corp, ,MOTOR
+103,EK835235     Corp,0.0,0.0,44135.0,0.0,USD,-6425.0,JHB US Equity,EK835235     Corp,ROIAK 7 ⅜ 04/15/22,ROIAK
+104,BL264572 Corp,0.0,0.0,44135.0,0.0,USD,-6483333.329999998,JHB US Equity,BL264572 Corp, ,AIMEGR
+105,AO728518     Corp,0.0,0.0,44135.0,0.0,USD,-4375.0,JHB US Equity,AO728518     Corp,NWHM 7 ¼ 04/01/22,NWHM
+106,EI619567     Corp,0.0,0.0,44135.0,0.0,USD,-3755.0,JHB US Equity,EI619567     Corp,LB 6 ⅝ 04/01/21,LB
+107,EI422919     Corp,0.0,0.0,44135.0,0.0,USD,-3200.0,JHB US Equity,EI422919     Corp,GFISJ 4 ⅞ 10/07/20,GFISJ
+108,EI386245     Corp,3200.0,0.608676330327673,44135.0,3200000.0,USD,0.0,JHB US Equity,EI386245     Corp,YUM 3 ⅞ 11/01/20,YUM
+109,EJ950329     Corp,5000.0,0.9462989334741709,44135.0,4974986.600000001,USD,0.0,JHB US Equity,EJ950329     Corp,CATM 1 12/01/20,CATM
+110,AP790781     Corp,5500.0,1.046162442750688,44135.0,5500000.0,USD,0.0,JHB US Equity,AP790781     Corp,F 2.343 11/02/20,F
+111,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+112,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+113,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+114,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+115,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+116,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+117,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+118,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+119,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+120,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+121,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+122,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+123,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+124,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+125,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+126,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+127,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+128,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+129,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+130,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+131,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+132,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+133,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+134,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+135,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+136,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+137,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+138,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+139,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+140,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+141,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+142,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+143,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+144,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+145,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+146,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+147,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+148,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+149,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+150,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+151,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+152,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+153,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+154,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+155,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+156,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+157,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+158,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+159,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+160,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+161,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+162,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+163,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+164,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+165,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+166,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+167,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+168,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+169,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+170,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+171,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+172,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+173,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+174,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+175,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+176,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+177,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+178,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+179,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+180,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+181,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+182,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+183,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+184,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+185,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+186,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+187,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+188,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+189,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+190,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+191,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+192,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+193,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+194,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+195,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+196,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+197,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+198,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+199,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+200,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+201,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+202,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+203,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+204,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+205,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+206,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+207,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+208,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+209,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+210,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+211,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+212,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+213,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+214,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+215,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+216,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+217,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+218,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+219,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security

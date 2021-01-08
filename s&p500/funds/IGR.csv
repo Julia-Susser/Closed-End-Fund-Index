@@ -1,0 +1,360 @@
+,ID,ID.POSITION,ID.WEIGHTS,ID.AS_OF_DATE,ID.REPORTED_MKT_VAL,ID.CURRENCY,ID.LATEST_CHANGE,ID.ORIG_IDS,ID,,
+1,8801 JP Equity,1429800.0,2.918242810672547,44104.0,24746799.01,USD,1118800.0,IGR US Equity,8801 JP Equity,Mitsui Fudosan Co Ltd,8801
+2,8954 JP Equity,12522.0,2.257015398273688,44104.0,19139567.9,USD,-718.0,IGR US Equity,8954 JP Equity,Orix JREIT Inc,8954
+3,3466 JP Equity,10695.0,2.105780734490445,44104.0,17857092.77,USD,1283.0,IGR US Equity,3466 JP Equity,LaSalle Logiport REIT,3466
+4,8972 JP Equity,1965.0,1.381146207970317,44104.0,11712167.16,USD,478.0,IGR US Equity,8972 JP Equity,Kenedix Office Investment Corp,8972
+5,3292 JP Equity,8213.0,1.111405191579224,44104.0,9424754.1,USD,2025.0,IGR US Equity,3292 JP Equity,AEON REIT Investment Corp,3292
+6,8804 JP Equity,597900.0,0.8571990180884763,44104.0,7269077.04,USD,0.0,IGR US Equity,8804 JP Equity,Tokyo Tatemono Co Ltd,8804
+7,3227 JP Equity,10288.0,0.9323484751014223,44104.0,7906347.01,USD,0.0,IGR US Equity,3227 JP Equity,MCUBS MidCity Investment Corp,3227
+8,3231 JP Equity,341200.0,0.760257356662178,44104.0,6447008.43,USD,59200.0,IGR US Equity,3231 JP Equity,Nomura Real Estate Holdings In,3231
+9,823 HK Equity,3098500.0,2.97024819491287,44104.0,25187806.45,USD,1143000.0,IGR US Equity,823 HK Equity,Link REIT,823
+10,16 HK Equity,1641000.0,2.466983338928206,44104.0,20920103.23,USD,221000.0,IGR US Equity,16 HK Equity,Sun Hung Kai Properties Ltd,16
+11,FIBRAPL MM Equity,3445044.0,1.570118916227603,44104.0,13314662.2,USD,0.0,IGR US Equity,FIBRAPL MM Equity,Prologis Property Mexico SA de,FIBRAPL
+12,83 HK Equity,9360000.0,1.281796404150159,44104.0,10869677.42,USD,1888000.0,IGR US Equity,83 HK Equity,Sino Land Co Ltd,83
+13,CCI US Equity,341073.0,6.696748240264315,44104.0,56788654.5,USD,0.0,IGR US Equity,CCI US Equity,Crown Castle International Cor,CCI
+14,CAST SS Equity,265536.0,0.7137283276561284,44104.0,6052440.67,USD,265536.0,IGR US Equity,CAST SS Equity,Castellum AB,CAST
+15,1972 HK Equity,2135600.0,0.6629041992567947,44104.0,5621450.32,USD,2135600.0,IGR US Equity,1972 HK Equity,Swire Properties Ltd,1972
+16,AMT US Equity,217449.0,6.198553586673631,44104.0,52563946.77,USD,14238.0,IGR US Equity,AMT US Equity,American Tower Corp,AMT
+17,PLD US Equity,438395.0,5.20178380815199,44104.0,44111304.9,USD,-39568.0,IGR US Equity,PLD US Equity,Prologis Inc,PLD
+18,CAR-U CN Equity,644975.0,2.644879009389032,44104.0,22428664.61,USD,88359.0,IGR US Equity,CAR-U CN Equity,Canadian Apartment Properties,CAR-U
+19,DXS AU Equity,3326810.0,2.499768156950786,44104.0,21198119.61,USD,1349390.0,IGR US Equity,DXS AU Equity,Dexus,DXS
+20,VNA GR Equity,566173.0,4.586374464188031,44104.0,38892612.58,USD,126786.0,IGR US Equity,VNA GR Equity,Vonovia SE,VNA
+21,SPG US Equity,343213.0,2.617798013842147,44104.0,22199016.84,USD,101238.0,IGR US Equity,SPG US Equity,Simon Property Group Inc,SPG
+22,VER US Equity,3889348.0,2.981209890014931,44104.0,25280762.0,USD,0.0,IGR US Equity,VER US Equity,VEREIT Inc,VER
+23,3279 JP Equity,67.0,0.02991011265512176,44104.0,253638.78,USD,-1157.0,IGR US Equity,3279 JP Equity,Activia Properties Inc,3279
+24,EQIX US Equity,37048.0,3.32089415921594,44104.0,28161296.24,USD,-7294.0,IGR US Equity,EQIX US Equity,Equinix Inc,EQIX
+25,INVH US Equity,832375.0,2.747415345147072,44104.0,23298176.25,USD,0.0,IGR US Equity,INVH US Equity,Invitation Homes Inc,INVH
+26,CAPL SP Equity,7399700.0,1.732292919071149,44104.0,14689903.3,USD,2351500.0,IGR US Equity,CAPL SP Equity,CapitaLand Ltd,CAPL
+27,CUBE US Equity,696178.0,2.652525979674878,44104.0,22493511.18,USD,120862.0,IGR US Equity,CUBE US Equity,CubeSmart,CUBE
+28,VICI US Equity,832265.0,2.293626706733653,44104.0,19450033.05,USD,0.0,IGR US Equity,VICI US Equity,VICI Properties Inc,VICI
+29,LEG GR Equity,170355.0,2.869281524983265,44104.0,24331605.63,USD,0.0,IGR US Equity,LEG GR Equity,LEG Immobilien AG,LEG
+30,EQR US Equity,311967.0,1.888349223752549,44104.0,16013266.11,USD,-90099.0,IGR US Equity,EQR US Equity,Equity Residential,EQR
+31,DRE US Equity,474408.0,2.064337792248165,44104.0,17505655.2,USD,-18562.0,IGR US Equity,DRE US Equity,Duke Realty Corp,DRE
+32,WELL US Equity,284524.0,1.848391961828945,44104.0,15674427.16,USD,103321.0,IGR US Equity,WELL US Equity,Welltower Inc,WELL
+33,LSI US Equity,161728.0,2.00766954948708,44104.0,17025106.56,USD,15828.0,IGR US Equity,LSI US Equity,Life Storage Inc,LSI
+34,ARE US Equity,101806.0,1.920860164343845,44104.0,16288960.0,USD,0.0,IGR US Equity,ARE US Equity,Alexandria Real Estate Equitie,ARE
+35,SGP AU Equity,3452945.0,1.103192835605812,44104.0,9355113.04,USD,3452945.0,IGR US Equity,SGP AU Equity,Stockland,SGP
+36,MGP US Equity,488152.0,1.610664832612692,44104.0,13658492.96,USD,5519.0,IGR US Equity,MGP US Equity,MGM Growth Properties LLC,MGP
+37,SRC US Equity,417035.0,1.659772923133418,44104.0,14074931.25,USD,122968.0,IGR US Equity,SRC US Equity,Spirit Realty Capital Inc,SRC
+38,VTR US Equity,316527.0,1.566205101850549,44104.0,13281472.92,USD,103677.0,IGR US Equity,VTR US Equity,Ventas Inc,VTR
+39,HTA US Equity,571025.0,1.750777125056206,44104.0,14846650.0,USD,0.0,IGR US Equity,HTA US Equity,Healthcare Trust of America In,HTA
+40,STOR US Equity,453821.0,1.467955157973801,44104.0,12448310.03,USD,-61274.0,IGR US Equity,STOR US Equity,STORE Capital Corp,STOR
+41,CONE US Equity,201997.0,1.66813593887553,44104.0,14145849.91,USD,0.0,IGR US Equity,CONE US Equity,CyrusOne Inc,CONE
+42,EP050794     Pfd,525265.0,1.568355668634059,44104.0,13299709.8,USD,0.0,IGR US Equity,EP050794     Pfd,AMH 6 ½ PERP,AMH
+43,BRX US Equity,822695.0,1.134111520837291,44104.0,9617304.55,USD,822695.0,IGR US Equity,BRX US Equity,Brixmor Property Group Inc,BRX
+44,EP053559     Pfd,500302.0,1.528628826770136,44104.0,12962824.82,USD,0.0,IGR US Equity,EP053559     Pfd,DLR 6 ⅝ PERP,DLR
+45,EP050921     Pfd,550000.0,1.458661559906292,44104.0,12369500.0,USD,0.0,IGR US Equity,EP050921     Pfd,PEB 6 ⅜ PERP,PEB
+46,INA AU Equity,2506274.0,0.9659693876235782,44104.0,8191453.5,USD,628502.0,IGR US Equity,INA AU Equity,Ingenia Communities Group,INA
+47,HIW US Equity,305400.0,1.208990162906581,44104.0,10252278.0,USD,103300.0,IGR US Equity,HIW US Equity,Highwoods Properties Inc,HIW
+48,EP050314     Pfd,475700.0,1.39736310471897,44104.0,11849687.0,USD,0.0,IGR US Equity,EP050314     Pfd,SHO 6.95 PERP,SHO
+49,MCT SP Equity,5740800.0,0.9620819646493384,44104.0,8158488.02,USD,1288700.0,IGR US Equity,MCT SP Equity,Mapletree Commercial Trust,MCT
+50,AMH US Equity,389700.0,1.308798486100758,44104.0,11098656.0,USD,389700.0,IGR US Equity,AMH US Equity,American Homes 4 Rent,AMH
+51,EP056533     Pfd,500000.0,1.339027609259545,44104.0,11355000.0,USD,0.0,IGR US Equity,EP056533     Pfd,PEB 6.3 PERP,PEB
+52,WDP BB Equity,407437.0,1.74997927568514,44104.0,14839884.21,USD,0.0,IGR US Equity,WDP BB Equity,Warehouses De Pauw CVA,WDP
+53,EP053678     Pfd,405900.0,1.267953721866395,44104.0,10752291.0,USD,0.0,IGR US Equity,EP053678     Pfd,NSA 6 PERP,NSA
+54,CPT US Equity,109136.0,1.145151184963984,44104.0,9710921.28,USD,0.0,IGR US Equity,CPT US Equity,Camden Property Trust,CPT
+55,HPP US Equity,409223.0,1.058281147943138,44104.0,8974260.39,USD,-164292.0,IGR US Equity,HPP US Equity,Hudson Pacific Properties Inc,HPP
+56,SGRO LN Equity,1154019.0,1.640396664148439,44104.0,13910619.91,USD,0.0,IGR US Equity,SGRO LN Equity,Segro PLC,SGRO
+57,AVB US Equity,58105.0,1.023274250454258,44104.0,8677400.7,USD,-49386.0,IGR US Equity,AVB US Equity,AvalonBay Communities Inc,AVB
+58,FRT US Equity,109087.0,0.9447307682379195,44104.0,8011349.28,USD,11372.0,IGR US Equity,FRT US Equity,Federal Realty Investment Trus,FRT
+59,EP050747     Pfd,379377.0,1.09652036610001,44104.0,9298530.27,USD,0.0,IGR US Equity,EP050747     Pfd,SHO 6.45 PERP,SHO
+60,AIV US Equity,223467.0,1.100269611566442,44104.0,9330324.0,USD,223467.0,IGR US Equity,AIV US Equity,Apartment Investment and Manag,AIV
+61,PDM US Equity,535392.0,0.8567500104684838,44104.0,7265269.44,USD,144900.0,IGR US Equity,PDM US Equity,Piedmont Office Realty Trust I,PDM
+62,EP056539     Pfd,376619.0,0.9977254315004702,44104.0,8460745.84,USD,0.0,IGR US Equity,EP056539     Pfd,PEB 6 ⅜ PERP,PEB
+63,EP057853     Pfd,301100.0,0.965078412449491,44104.0,8183898.0,USD,0.0,IGR US Equity,EP057853     Pfd,DLR 5.2 PERP,DLR
+64,CICT SP Equity,3992100.0,0.665574458516243,44104.0,5644094.21,USD,669500.0,IGR US Equity,CICT SP Equity,CapitaLand Integrated Commerci,CICT
+65,EP053627     Pfd,282200.0,0.8941843592354803,44104.0,7582714.0,USD,0.0,IGR US Equity,EP053627     Pfd,FRT 5 PERP,FRT
+66,AOX GR Equity,532617.0,0.8735156738680697,44104.0,7407442.84,USD,0.0,IGR US Equity,AOX GR Equity,alstria office REIT-AG,AOX
+67,DWNI GR Equity,169644.0,1.001464704129834,44104.0,8492455.0,USD,54663.0,IGR US Equity,DWNI GR Equity,Deutsche Wohnen SE,DWNI
+68,CXP US Equity,474218.0,0.6101058347295081,44104.0,5173718.38,USD,0.0,IGR US Equity,CXP US Equity,Columbia Property Trust Inc,CXP
+69,PEAK US Equity,229810.0,0.7357684308321323,44104.0,6239341.5,USD,-451863.0,IGR US Equity,PEAK US Equity,Healthpeak Properties Inc,PEAK
+70,EP053295     Pfd,245403.0,0.7668812768358152,44104.0,6503179.5,USD,0.0,IGR US Equity,EP053295     Pfd,DLR 5 ¼ PERP,DLR
+71,EP053964     Pfd,287077.0,0.7549282119180865,44104.0,6401817.1,USD,0.0,IGR US Equity,EP053964     Pfd,INN 6 ¼ PERP,INN
+72,BYG LN Equity,527315.0,0.836059368821851,44104.0,7089812.09,USD,73854.0,IGR US Equity,BYG LN Equity,Big Yellow Group PLC,BYG
+73,QTS US Equity,94900.0,0.7052563489108248,44104.0,5980598.0,USD,0.0,IGR US Equity,QTS US Equity,QTS Realty Trust Inc,QTS
+74,EP051046     Pfd,225000.0,0.5969905127147904,44104.0,5062500.0,USD,0.0,IGR US Equity,EP051046     Pfd,INN 6.45 PERP,INN
+75,GRI LN Equity,1878486.0,0.8511192655277484,44104.0,7217520.53,USD,0.0,IGR US Equity,GRI LN Equity,Grainger PLC,GRI
+76,MINT SP Equity,1862900.0,0.5165739496222139,44104.0,4380564.79,USD,-767100.0,IGR US Equity,MINT SP Equity,Mapletree Industrial Trust,MINT
+77,SHUR BB Equity,147379.0,0.7581402154511777,44104.0,6429055.0,USD,0.0,IGR US Equity,SHUR BB Equity,Shurgard Self Storage SA,SHUR
+78,KOJAMO FH Equity,291440.0,0.7391277002797101,44104.0,6267828.22,USD,0.0,IGR US Equity,KOJAMO FH Equity,Kojamo Oyj,KOJAMO
+79,EP050376     Pfd,150000.0,0.4561891947530207,44104.0,3868500.0,USD,0.0,IGR US Equity,EP050376     Pfd,STAG 6 ⅞ PERP,STAG
+80,EP054011     Pfd,143517.0,0.4549199734655204,44104.0,3857736.96,USD,0.0,IGR US Equity,EP054011     Pfd,REXR 5 ⅞ PERP,REXR
+81,HBRN ID Equity,3146225.0,0.4472536376918723,44104.0,3792726.17,USD,0.0,IGR US Equity,HBRN ID Equity,Hibernia REIT plc,HBRN
+82,GYC GR Equity,157643.0,0.449504807842534,44104.0,3811816.17,USD,-86396.0,IGR US Equity,GYC GR Equity,Grand City Properties SA,GYC
+83,EP043930     Pfd,120000.0,0.3033950007136025,44104.0,2572800.0,USD,0.0,IGR US Equity,EP043930     Pfd,TCO 6 ¼ PERP,TCO
+84,EQIX US 10/16/20 C870,-215.0,-0.01267683557863506,44104.0,-107500.0,USD,0.0,IGR US Equity,EQIX US 10/16/20 C870,42,42
+85,EQR US 10/16/20 C65,-1500.0,-0.001768860778414194,44104.0,-15000.0,USD,0.0,IGR US Equity,EQR US 10/16/20 C65,42,42
+86,AMT US 10/16/20 C270,-500.0,-0.0007665063373128173,44104.0,-6500.0,USD,0.0,IGR US Equity,AMT US 10/16/20 C270,42,42
+87,SPG US 10/16/20 C95,-1200.0,-0.0005660354490925421,44104.0,-4800.0,USD,0.0,IGR US Equity,SPG US 10/16/20 C95,42,42
+88,DLN LN Equity,0.0,0.0,44104.0,0.0,USD,-168934.0,IGR US Equity,DLN LN Equity,Derwent London PLC,DLN
+89,BXP US Equity,0.0,0.0,44104.0,0.0,USD,-86512.0,IGR US Equity,BXP US Equity,Boston Properties Inc,BXP
+90,HST US Equity,0.0,0.0,44104.0,0.0,USD,-407291.0,IGR US Equity,HST US Equity,Host Hotels & Resorts Inc,HST
+91,101 HK Equity,0.0,0.0,44104.0,0.0,USD,-3333000.0,IGR US Equity,101 HK Equity,Hang Lung Properties Ltd,101
+92,DOC US Equity,0.0,0.0,44104.0,0.0,USD,-303293.0,IGR US Equity,DOC US Equity,Physicians Realty Trust,DOC
+93,8802 JP Equity,0.0,0.0,44104.0,0.0,USD,-1243500.0,IGR US Equity,8802 JP Equity,Mitsubishi Estate Co Ltd,8802
+94,EP011074     Pfd,0.0,0.0,44104.0,0.0,USD,-277856.0,IGR US Equity,EP011074     Pfd,STAR 7 ½ PERP,STAR
+95,PLD US 10/16/20 C110,-2100.0,-0.002476405089779872,44104.0,-21000.0,USD,0.0,IGR US Equity,PLD US 10/16/20 C110,42,42
+96,GPT AU Equity,0.0,0.0,44104.0,0.0,USD,-3583147.0,IGR US Equity,GPT AU Equity,GPT Group/The,GPT
+97,FABG SS Equity,0.0,0.0,44104.0,0.0,USD,-649206.0,IGR US Equity,FABG SS Equity,Fabege AB,FABG
+98,LINE OF CREDIT,-269269300.0,-31.75332690673634,44104.0,-269269300.0,USD,0.0,IGR US Equity,LINE OF CREDIT,42,42
+99,FRT US 10/16/20 C85,-545.0,-0.0006426860828238238,44104.0,-5450.0,USD,0.0,IGR US Equity,FRT US 10/16/20 C85,42,42
+100,AVB US 10/16/20 C175,-230.0,-0.0005424506387136862,44104.0,-4600.0,USD,0.0,IGR US Equity,AVB US 10/16/20 C175,42,42
+101,ENTRA NO Equity,0.0,0.0,44104.0,0.0,USD,-461843.0,IGR US Equity,ENTRA NO Equity,Entra ASA,ENTRA
+102,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+103,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+104,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+105,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+106,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+107,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+108,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+109,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+110,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+111,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+112,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+113,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+114,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+115,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+116,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+117,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+118,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+119,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+120,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+121,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+122,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+123,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+124,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+125,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+126,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+127,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+128,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+129,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+130,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+131,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+132,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+133,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+134,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+135,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+136,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+137,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+138,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+139,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+140,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+141,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+142,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+143,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+144,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+145,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+146,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+147,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+148,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+149,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+150,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+151,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+152,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+153,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+154,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+155,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+156,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+157,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+158,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+159,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+160,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+161,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+162,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+163,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+164,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+165,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+166,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+167,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+168,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+169,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+170,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+171,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+172,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+173,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+174,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+175,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+176,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+177,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+178,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+179,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+180,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+181,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+182,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+183,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+184,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+185,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+186,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+187,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+188,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+189,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+190,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+191,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+192,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+193,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+194,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+195,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+196,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+197,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+198,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+199,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+200,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+201,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+202,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+203,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+204,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+205,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+206,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+207,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+208,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+209,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+210,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+211,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+212,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+213,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+214,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+215,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+216,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+217,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+218,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+219,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+220,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+221,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+222,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+223,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+224,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+225,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+226,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+227,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+228,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+229,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+230,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+231,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+232,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+233,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+234,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+235,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+236,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+237,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+238,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+239,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+240,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+241,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+242,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+243,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+244,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+245,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+246,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+247,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+248,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+249,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+250,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+251,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+252,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+253,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+254,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+255,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+256,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+257,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+258,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+259,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+260,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+261,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+262,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+263,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+264,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+265,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+266,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+267,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+268,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+269,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+270,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+271,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+272,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+273,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+274,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+275,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+276,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+277,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+278,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+279,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+280,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+281,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+282,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+283,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+284,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+285,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+286,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+287,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+288,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+289,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+290,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+291,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+292,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+293,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+294,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+295,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+296,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+297,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+298,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+299,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+300,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+301,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+302,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+303,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+304,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+305,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+306,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+307,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+308,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+309,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+310,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+311,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+312,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+313,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+314,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+315,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+316,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+317,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+318,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+319,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+320,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+321,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+322,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+323,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+324,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+325,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+326,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+327,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+328,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+329,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+330,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+331,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+332,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+333,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+334,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+335,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+336,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+337,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+338,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+339,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+340,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+341,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+342,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+343,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+344,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+345,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+346,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+347,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+348,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+349,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+350,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+351,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+352,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+353,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+354,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+355,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+356,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+357,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+358,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+359,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security

@@ -1,0 +1,360 @@
+,ID,ID.POSITION,ID.WEIGHTS,ID.AS_OF_DATE,ID.REPORTED_MKT_VAL,ID.CURRENCY,ID.LATEST_CHANGE,ID.ORIG_IDS,ID,,
+1,AMT US Equity,643111.0,7.154225854012865,44104.0,155459222.03,USD,-214350.0,RQI US Equity,AMT US Equity,American Tower Corp,AMT
+2,CCI US Equity,862626.0,6.609718108931066,44104.0,143627229.0,USD,255511.0,RQI US Equity,CCI US Equity,Crown Castle International Cor,CCI
+3,EQIX US Equity,172543.0,6.035751824924366,44104.0,131155110.59,USD,-10897.0,RQI US Equity,EQIX US Equity,Equinix Inc,EQIX
+4,SPG US Equity,1301613.0,3.874342807897461,44104.0,84188328.84,USD,382223.0,RQI US Equity,SPG US Equity,Simon Property Group Inc,SPG
+5,PLD US Equity,1054692.0,4.88378032829523,44104.0,106123109.04,USD,-313515.0,RQI US Equity,PLD US Equity,Prologis Inc,PLD
+6,PSA US Equity,454767.0,4.661163286178836,44104.0,101285706.24,USD,38273.0,RQI US Equity,PSA US Equity,Public Storage,PSA
+7,WELL US Equity,1571700.0,3.984635335442176,44104.0,86584953.0,USD,51253.0,RQI US Equity,WELL US Equity,Welltower Inc,WELL
+8,VTR US Equity,1768531.0,3.415028345182197,44104.0,74207560.76,USD,164732.0,RQI US Equity,VTR US Equity,Ventas Inc,VTR
+9,SBAC US Equity,284070.0,4.163453247698771,44104.0,90470613.6,USD,132549.0,RQI US Equity,SBAC US Equity,SBA Communications Corp,SBAC
+10,VICI US Equity,3120873.0,3.356456049269035,44104.0,72934802.01,USD,-507556.0,RQI US Equity,VICI US Equity,VICI Properties Inc,VICI
+11,ESS US Equity,301205.0,2.783238433939896,44104.0,60478951.95,USD,17188.0,RQI US Equity,ESS US Equity,Essex Property Trust Inc,ESS
+12,DRE US Equity,1914094.0,3.250392329580232,44104.0,70630068.6,USD,0.0,RQI US Equity,DRE US Equity,Duke Realty Corp,DRE
+13,EXR US Equity,613093.0,3.018670436569893,44104.0,65594820.07,USD,-58836.0,RQI US Equity,EXR US Equity,Extra Space Storage Inc,EXR
+14,UDR US Equity,1672519.0,2.509967021385047,44104.0,54540844.59,USD,96743.0,RQI US Equity,UDR US Equity,UDR Inc,UDR
+15,WY US Equity,1911851.0,2.509283437804454,44104.0,54525990.52,USD,1911851.0,RQI US Equity,WY US Equity,Weyerhaeuser Co,WY
+16,VER US Equity,7439658.0,2.225422550932527,44104.0,48357777.0,USD,1403358.0,RQI US Equity,VER US Equity,VEREIT Inc,VER
+17,PEAK US Equity,1695265.0,2.118134753917658,44104.0,46026444.75,USD,38833.0,RQI US Equity,PEAK US Equity,Healthpeak Properties Inc,PEAK
+18,MPW US Equity,2255571.0,1.830016354245086,44104.0,39765716.73,USD,0.0,RQI US Equity,MPW US Equity,Medical Properties Trust Inc,MPW
+19,SUI US Equity,302522.0,1.9575791355097,44104.0,42537618.42,USD,-221863.0,RQI US Equity,SUI US Equity,Sun Communities Inc,SUI
+20,INVH US Equity,1416173.0,1.824170234560355,44104.0,39638682.27,USD,-623771.0,RQI US Equity,INVH US Equity,Invitation Homes Inc,INVH
+21,SRC US Equity,1090752.0,1.694126951219718,44104.0,36812880.0,USD,256691.0,RQI US Equity,SRC US Equity,Spirit Realty Capital Inc,SRC
+22,CONE US Equity,559231.0,1.802276917299068,44104.0,39162946.93,USD,0.0,RQI US Equity,CONE US Equity,CyrusOne Inc,CONE
+23,KRC US Equity,590181.0,1.411238846967635,44104.0,30665804.76,USD,0.0,RQI US Equity,KRC US Equity,Kilroy Realty Corp,KRC
+24,LAMR US Equity,412778.0,1.256966876950453,44104.0,27313520.26,USD,412778.0,RQI US Equity,LAMR US Equity,Lamar Advertising Co,LAMR
+25,WPC US Equity,365455.0,1.095875304205034,44104.0,23813047.8,USD,365455.0,RQI US Equity,WPC US Equity,WP Carey Inc,WPC
+26,AIV US Equity,578761.0,1.112059696460924,44104.0,24164729.88,USD,42269.0,RQI US Equity,AIV US Equity,Apartment Investment and Manag,AIV
+27,HST US Equity,1517836.0,0.7536894745173219,44104.0,16377450.44,USD,-377174.0,RQI US Equity,HST US Equity,Host Hotels & Resorts Inc,HST
+28,BNL US Equity,1077834.0,0.8323193513672715,44104.0,18086054.52,USD,1077834.0,RQI US Equity,BNL US Equity,Broadstone Net Lease Inc,BNL
+29,ADC US Equity,272991.0,0.7995113929361805,44104.0,17373147.24,USD,0.0,RQI US Equity,ADC US Equity,Agree Realty Corp,ADC
+30,TRIXX US Equity,12814774.58,0.5897353043223823,44104.0,12814774.58,USD,-931536.6000000015,RQI US Equity,TRIXX US Equity,State Street Institutional Tre,TRIXX
+31,DLR US Equity,83858.0,0.5663675464726267,44104.0,12307000.08,USD,-236123.0,RQI US Equity,DLR US Equity,Digital Realty Trust Inc,DLR
+32,EP051429     Pfd,400000.0,0.4561497590107007,44104.0,9912000.0,USD,13237.0,RQI US Equity,EP051429     Pfd,MNR 6 ⅛ PERP,MNR
+33,EP051053     Pfd,378397.0,0.4409177091530087,44104.0,9581012.04,USD,0.0,RQI US Equity,EP051053     Pfd,AMH 6.35 PERP,AMH
+34,EP057300     Pfd,375000.0,0.4228083041677576,44104.0,9187500.0,USD,345000.0,RQI US Equity,EP057300     Pfd,AHH 6 ¾ PERP,AHH
+35,ZO065300     Corp,9000.0,0.4154986713320349,44104.0,9028663.83,USD,9000.0,RQI US Equity,ZO065300     Corp,RPAI 4 ¾ 09/15/30,RPAI
+36,EP053642     Pfd,351071.0,0.4257177246169052,44104.0,9250720.85,USD,0.0,RQI US Equity,EP053642     Pfd,SRC 6 PERP,SRC
+37,EP045427     Pfd,355744.0,0.4146855765632066,44104.0,9010995.52,USD,-219567.0,RQI US Equity,EP045427     Pfd,VER 6.7 PERP,VER
+38,EP052919     Pfd,279915.0,0.2911258486009539,44104.0,6326079.0,USD,0.0,RQI US Equity,EP052919     Pfd,CLNY 7.15 PERP,CLNY
+39,EP040047     Pfd,250000.0,0.2872795470767049,44104.0,6242500.0,USD,0.0,RQI US Equity,EP040047     Pfd,ALLY Float 02/15/40,ALLY
+40,ZO512461     Corp,6000.0,0.2716026637660697,44104.0,5901845.94,USD,6000.0,RQI US Equity,ZO512461     Corp,SCGAU 5 ⅛ 09/24/80,SCGAU
+41,EJ843360     Corp,5250.0,0.2827814419697534,44104.0,6144757.5,USD,0.0,RQI US Equity,EJ843360     Corp,ENELIM 8 ¾ 09/24/73,ENELIM
+42,JV610919     Corp,5000.0,0.2712397531899425,44104.0,5893960.0,USD,0.0,RQI US Equity,JV610919     Corp,ACAFP 8 ⅛ PERP,ACAFP
+43,EP031542     Pfd,180628.0,0.2432235099174044,44104.0,5285175.28,USD,-372.0,RQI US Equity,EP031542     Pfd,EPR 9 PERP,EPR
+44,EP050794     Pfd,207796.0,0.2421291297001789,44104.0,5261394.72,USD,0.0,RQI US Equity,EP050794     Pfd,AMH 6 ½ PERP,AMH
+45,EP058496     Pfd,208044.0,0.2406947540814631,44104.0,5230226.16,USD,0.0,RQI US Equity,EP058496     Pfd,WFC 4 ¾ PERP,WFC
+46,EP053678     Pfd,192080.0,0.2341586802742575,44104.0,5088199.2,USD,0.0,RQI US Equity,EP053678     Pfd,NSA 6 PERP,NSA
+47,EP042515     Pfd,200000.0,0.2335972736822353,44104.0,5076000.0,USD,0.0,RQI US Equity,EP042515     Pfd,WFC 5.2 PERP,WFC
+48,EP043930     Pfd,196133.0,0.193518107694304,44104.0,4205091.52,USD,0.0,RQI US Equity,EP043930     Pfd,TCO 6 ¼ PERP,TCO
+49,EP054246     Pfd,185000.0,0.2256128121014891,44104.0,4902500.0,USD,0.0,RQI US Equity,EP054246     Pfd,PSB 5.2 PERP,PSB
+50,EP042507     Pfd,191919.0,0.2218624290416985,44104.0,4821005.28,USD,0.0,RQI US Equity,EP042507     Pfd,SLG 6 ½ PERP,SLG
+51,EP052936     Pfd,200000.0,0.2293634381466235,44104.0,4984000.0,USD,11797.0,RQI US Equity,EP052936     Pfd,SITC 6 ⅜ PERP,SITC
+52,EP013961     Pfd,79704.0,0.214393092708176,44104.0,4658698.8,USD,0.0,RQI US Equity,EP013961     Pfd,LXP 6 ½ PERP,LXP
+53,EP053559     Pfd,179137.0,0.2135988283830919,44104.0,4641439.67,USD,0.0,RQI US Equity,EP053559     Pfd,DLR 6 ⅝ PERP,DLR
+54,EP058572     Pfd,204000.0,0.1677648126995893,44104.0,3645480.0,USD,0.0,RQI US Equity,EP058572     Pfd,BPY 5 ¾ PERP,BPY
+55,EK604733     Corp,4052.0,0.2082892336832194,44104.0,4526063.74,USD,0.0,RQI US Equity,EK604733     Corp,QBEAU 6 ¾ 12/02/44,QBEAU
+56,EP053553     Pfd,196364.0,0.203324889403096,44104.0,4418190.0,USD,0.0,RQI US Equity,EP053553     Pfd,CLNY 7 ⅛ PERP,CLNY
+57,EP053964     Pfd,200000.0,0.2052489835742257,44104.0,4460000.0,USD,0.0,RQI US Equity,EP053964     Pfd,INN 6 ¼ PERP,INN
+58,EP054551     Pfd,170000.0,0.2060681387104636,44104.0,4477800.0,USD,60000.0,RQI US Equity,EP054551     Pfd,KIM 5 ¼ PERP,KIM
+59,EP050314     Pfd,180000.0,0.2063442584193079,44104.0,4483800.0,USD,0.0,RQI US Equity,EP050314     Pfd,SHO 6.95 PERP,SHO
+60,EP056029     Pfd,162714.0,0.2059224855640483,44104.0,4474635.0,USD,0.0,RQI US Equity,EP056029     Pfd,AMH 6 ¼ PERP,AMH
+61,EK851355     Corp,4000.0,0.1954467339102549,44104.0,4247000.0,USD,0.0,RQI US Equity,EK851355     Corp,INTNED 6 ½ PERP,INTNED
+62,ZR363521     Corp,4000.0,0.1841074859765792,44104.0,4000601.48,USD,0.0,RQI US Equity,ZR363521     Corp,BBVASM 6 ½ PERP,BBVASM
+63,QZ199609     Corp,4000.0,0.1890416770640977,44104.0,4107820.0,USD,0.0,RQI US Equity,QZ199609     Corp,STANLN 7 ½ PERP,STANLN
+64,EP050376     Pfd,160000.0,0.1898967277624854,44104.0,4126400.0,USD,0.0,RQI US Equity,EP050376     Pfd,STAG 6 ⅞ PERP,STAG
+65,EP055932     Pfd,184943.0,0.158901637421607,44104.0,3452885.81,USD,0.0,RQI US Equity,EP055932     Pfd,BPYU 6 ⅜ PERP,BPYU
+66,EP042275     Pfd,161024.0,0.1879997338203798,44104.0,4085178.88,USD,0.0,RQI US Equity,EP042275     Pfd,VNO 5.7 PERP,VNO
+67,EK045649     Corp,2978.0,0.1918758617955781,44104.0,4169406.0,USD,0.0,RQI US Equity,EK045649     Corp,RABOBK 6 ½ PERP,RABOBK
+68,EP057832     Pfd,159900.0,0.1751344477286423,44104.0,3805620.0,USD,0.0,RQI US Equity,EP057832     Pfd,UBA 5 ⅞ PERP,UBA
+69,EP053541     Pfd,157556.0,0.1780051630976028,44104.0,3867999.8,USD,0.0,RQI US Equity,EP053541     Pfd,UBA 6 ¼ PERP,UBA
+70,EP053205     Pfd,152845.0,0.1770437533883658,44104.0,3847108.65,USD,0.0,RQI US Equity,EP053205     Pfd,UMH 6 ¾ PERP,UMH
+71,EK161690     Corp,3400.0,0.1644430005622901,44104.0,3573298.0,USD,0.0,RQI US Equity,EK161690     Corp,LLOYDS 7 ½ PERP,LLOYDS
+72,EP049491     Pfd,148198.0,0.1714564282813476,44104.0,3725697.72,USD,0.0,RQI US Equity,EP049491     Pfd,BRG 8 ¼ PERP,BRG
+73,EP043935     Pfd,160000.0,0.1691325256573978,44104.0,3675200.0,USD,0.0,RQI US Equity,EP043935     Pfd,PEB 6 ½ PERP,PEB
+74,JV466108     Corp,4000.0,0.1469654476699794,44104.0,3193515.92,USD,0.0,RQI US Equity,JV466108     Corp,GE 5 PERP,GE
+75,QZ198831     Corp,3300.0,0.1559996280254447,44104.0,3389826.0,USD,0.0,RQI US Equity,QZ198831     Corp,NWG 8 ⅝ PERP,NWG
+76,AX916964     Corp,2750.0,0.1503770157400351,44104.0,3267648.29,USD,0.0,RQI US Equity,AX916964     Corp,VOD 7 04/04/79,VOD
+77,EP057067     Pfd,147000.0,0.1177774812089706,44104.0,2559270.0,USD,0.0,RQI US Equity,EP057067     Pfd,ETP 7.6 PERP,ETP
+78,EJ969486     Corp,2891.0,0.1455996772143226,44104.0,3163838.13,USD,0.0,RQI US Equity,EJ969486     Corp,CS 7 ½ PERP,CS
+79,EP054188     Pfd,137002.0,0.1198547306990049,44104.0,2604408.02,USD,0.0,RQI US Equity,EP054188     Pfd,EPR 5 ¾ PERP,EPR
+80,EP054954     Pfd,115975.0,0.1446371409366736,44104.0,3142922.5,USD,0.0,RQI US Equity,EP054954     Pfd,QTS 7 ⅛ PERP,QTS
+81,AM252282     Corp,3000.0,0.1438224727457044,44104.0,3125220.0,USD,0.0,RQI US Equity,AM252282     Corp,CS 7 ⅛ PERP,CS
+82,QZ855159     Corp,3000.0,0.1435735508281813,44104.0,3119811.0,USD,0.0,RQI US Equity,QZ855159     Corp,DNBNO 6 ½ PERP,DNBNO
+83,ZS348387     Corp,3300.0,0.119965660871634,44104.0,2606818.5,USD,0.0,RQI US Equity,ZS348387     Corp,BPR 5 ¾ 05/15/26,BPR
+84,EP057565     Pfd,126056.0,0.1150356345897239,44104.0,2499690.48,USD,0.0,RQI US Equity,EP057565     Pfd,BPY 6 ⅜ PERP,BPY
+85,EK026717     Corp,2700.0,0.1347740800486254,44104.0,2928601.09,USD,2700.0,RQI US Equity,EK026717     Corp,JPM 6 ¾ PERP,JPM
+86,EP056533     Pfd,134000.0,0.1400451551287151,44104.0,3043140.0,USD,0.0,RQI US Equity,EP056533     Pfd,PEB 6.3 PERP,PEB
+87,EP051046     Pfd,123000.0,0.1273602157044102,44104.0,2767500.0,USD,0.0,RQI US Equity,EP051046     Pfd,INN 6.45 PERP,INN
+88,BJ765166     Corp,2500.0,0.1288742721079062,44104.0,2800400.0,USD,0.0,RQI US Equity,BJ765166     Corp,DHC 9 ¾ 06/15/25,DHC
+89,EP050386     Pfd,107425.0,0.1269540436127004,44104.0,2758674.0,USD,0.0,RQI US Equity,EP050386     Pfd,KKR 6 ¾ PERP,KKR
+90,EH113463     Corp,2000.0,0.1269382099881962,44104.0,2758329.94,USD,0.0,RQI US Equity,EH113463     Corp,MET 7 ⅞ 12/15/37,MET
+91,EP056854     Pfd,98115.0,0.1243950696960227,44104.0,2703068.25,USD,0.0,RQI US Equity,EP056854     Pfd,DLR 5.85 PERP,DLR
+92,EP057853     Pfd,100000.0,0.1250822281064452,44104.0,2718000.0,USD,-28000.0,RQI US Equity,EP057853     Pfd,DLR 5.2 PERP,DLR
+93,EP057679     Pfd,111000.0,0.1271945438791037,44104.0,2763900.0,USD,0.0,RQI US Equity,EP057679     Pfd,BFS 6 PERP,BFS
+94,BK790507     Corp,2500.0,0.1155676031391871,44104.0,2511250.0,USD,2500.0,RQI US Equity,BK790507     Corp,CS 5 ¼ PERP,CS
+95,ZP610050     Corp,2525.0,0.1180886336058744,44104.0,2566031.25,USD,-350.0,RQI US Equity,ZP610050     Corp,SBAC 3 ⅞ 02/15/27,SBAC
+96,EC902671     Corp,2600.0,0.1220000418564712,44104.0,2651025.0,USD,0.0,RQI US Equity,EC902671     Corp,LLOYDS 6.85 PERP,LLOYDS
+97,EP059332     Pfd,100000.0,0.1152799784424743,44104.0,2505000.0,USD,100000.0,RQI US Equity,EP059332     Pfd,SO 4.2 10/15/60,SO
+98,EP053615     Pfd,98959.0,0.1205011784797549,44104.0,2618455.14,USD,0.0,RQI US Equity,EP053615     Pfd,IRET 6 ⅝ PERP,IRET
+99,EP043025     Pfd,100000.0,0.1157861979086888,44104.0,2516000.0,USD,0.0,RQI US Equity,EP043025     Pfd,TFC 5.2 PERP,TFC
+100,EP058480     Pfd,95600.0,0.1144751815310963,44104.0,2487512.0,USD,0.0,RQI US Equity,EP058480     Pfd,MET 4 ¾ PERP,MET
+101,EP054733     Pfd,101300.0,0.1161259632104216,44104.0,2523383.0,USD,0.0,RQI US Equity,EP054733     Pfd,BFS 6 ⅛ PERP,BFS
+102,EP050747     Pfd,91865.0,0.1036190358614111,44104.0,2251611.15,USD,-99.0,RQI US Equity,EP050747     Pfd,SHO 6.45 PERP,SHO
+103,EP051317     Pfd,85500.0,0.1013580227225472,44104.0,2202480.0,USD,0.0,RQI US Equity,EP051317     Pfd,REXR 5 ⅞ PERP,REXR
+104,AT519279     Corp,2000.0,0.09736072973751198,44104.0,2115620.0,USD,0.0,RQI US Equity,AT519279     Corp,CS 7 ½ PERP,CS
+105,AM782561     Corp,2000.0,0.100437144165172,44104.0,2182469.58,USD,0.0,RQI US Equity,AM782561     Corp,EQIX 5 ⅜ 05/15/27,EQIX
+106,EH320991     Corp,2108.0,0.09308018211035593,44104.0,2022604.96,USD,-2750.0,RQI US Equity,EH320991     Corp,JPM Float PERP,JPM
+107,EP056063     Pfd,75000.0,0.09426036560670578,44104.0,2048250.0,USD,0.0,RQI US Equity,EP056063     Pfd,JPM 5 ¾ PERP,JPM
+108,EP051128     Pfd,216000.0,0.04045705973985949,44104.0,879120.0,USD,0.0,RQI US Equity,EP051128     Pfd,AHT 7 ⅜ PERP,AHT
+109,EP058006     Pfd,72384.0,0.08907383239887058,44104.0,1935548.16,USD,9484.0,RQI US Equity,EP058006     Pfd,PSB 4 ⅞ PERP,PSB
+110,EP050395     Pfd,75432.0,0.0877564100440329,44104.0,1906920.96,USD,0.0,RQI US Equity,EP050395     Pfd,HBAN 6 ¼ PERP,HBAN
+111,AX727792     Corp,1750.0,0.08556834727204617,44104.0,1859375.0,USD,0.0,RQI US Equity,AX727792     Corp,BNP 6 ⅝ PERP,BNP
+112,AL701651     Corp,1750.0,0.08116699082947756,44104.0,1763734.82,USD,0.0,RQI US Equity,AL701651     Corp,ENBCN 6 01/15/77,ENBCN
+113,EP050813     Pfd,70000.0,0.08114698043417762,44104.0,1763300.0,USD,0.0,RQI US Equity,EP050813     Pfd,GOOD 7 PERP,GOOD
+114,EP044052     Pfd,70000.0,0.07844100728750399,44104.0,1704500.0,USD,0.0,RQI US Equity,EP044052     Pfd,SITC 6 ¼ PERP,SITC
+115,EP054027     Pfd,165000.0,0.03143622885191785,44104.0,683100.0,USD,0.0,RQI US Equity,EP054027     Pfd,AHT 7 ½ PERP,AHT
+116,BJ387377     Corp,1350.0,0.06735837028484368,44104.0,1463677.56,USD,0.0,RQI US Equity,BJ387377     Corp,FRT 3 ½ 06/01/30,FRT
+117,ZP350087     Corp,1535.0,0.05589439493688741,44104.0,1214568.75,USD,-365.0,RQI US Equity,ZP350087     Corp,ETP 7 ⅛ PERP,ETP
+118,ZP609628     Corp,1366.0,0.0619988839749797,44104.0,1347217.5,USD,0.0,RQI US Equity,ZP609628     Corp,VICI 4 ⅛ 08/15/30,VICI
+119,EP045711     Pfd,50000.0,0.06366860286433661,44104.0,1383500.0,USD,0.0,RQI US Equity,EP045711     Pfd,STT 5.9 PERP,STT
+120,EP052253     Pfd,158825.0,0.03325649050753422,44104.0,722653.75,USD,0.0,RQI US Equity,EP052253     Pfd,PEI 7.2 PERP,PEI
+121,EP059221     Pfd,50725.0,0.06069341300153981,44104.0,1318850.0,USD,50725.0,RQI US Equity,EP059221     Pfd,DRH 8 ¼ PERP,DRH
+122,ZS784978     Corp,1200.0,0.05807564813665452,44104.0,1261966.74,USD,0.0,RQI US Equity,ZS784978     Corp,SBRA 4.8 06/01/24,SBRA
+123,EP051575     Pfd,50000.0,0.05950379725593585,44104.0,1293000.0,USD,0.0,RQI US Equity,EP051575     Pfd,CIO 6 ⅝ PERP,CIO
+124,EP050946     Pfd,49355.0,0.05905418233003445,44104.0,1283230.0,USD,0.0,RQI US Equity,EP050946     Pfd,WFC 5 ½ PERP,WFC
+125,EP051720     Pfd,45000.0,0.05359483548666889,44104.0,1164600.0,USD,0.0,RQI US Equity,EP051720     Pfd,PSB 5.2 PERP,PSB
+126,EP049481     Pfd,45000.0,0.05231087884054313,44104.0,1136700.0,USD,0.0,RQI US Equity,EP049481     Pfd,UMH 8 PERP,UMH
+127,EP053451     Pfd,39846.0,0.04204699291894683,44104.0,913668.78,USD,0.0,RQI US Equity,EP053451     Pfd,RLJ 1.95 PERP,RLJ
+128,BK878129     Corp,1000.0,0.04338099258070449,44104.0,942656.2,USD,1000.0,RQI US Equity,BK878129     Corp,ESS 2.65 09/01/50,ESS
+129,EP053409     Pfd,100000.0,0.01854604044403878,44104.0,403000.0,USD,0.0,RQI US Equity,EP053409     Pfd,AHT 7 ½ PERP,AHT
+130,ZO620951     Corp,900.0,0.04164078493167479,44104.0,904842.0,USD,900.0,RQI US Equity,ZO620951     Corp,QTS 3 ⅞ 10/01/28,QTS
+131,ZO441593     Corp,850.0,0.03960566164502029,44104.0,860619.37,USD,850.0,RQI US Equity,ZO441593     Corp,OFC 2 ¼ 03/15/26,OFC
+132,EP058945     Pfd,29610.0,0.03668255854390036,44104.0,797101.2,USD,-390.0,RQI US Equity,EP058945     Pfd,PSA 4 ⅝ PERP,PSA
+133,EP057716     Pfd,30000.0,0.03700004098512948,44104.0,804000.0,USD,30000.0,RQI US Equity,EP057716     Pfd,REXR 5 ⅝ PERP,REXR
+134,EP041865     Pfd,32686.0,0.0283693654049867,44104.0,616457.96,USD,0.0,RQI US Equity,EP041865     Pfd,CDR 7 ¼ PERP,CDR
+135,EK309716     Corp,738.0,0.03149279887726731,44104.0,684329.25,USD,0.0,RQI US Equity,EK309716     Corp,JPM Float PERP,JPM
+136,EP058976     Pfd,25000.0,0.02942975896764963,44104.0,639500.0,USD,0.0,RQI US Equity,EP058976     Pfd,OPI 6 ⅜ 06/23/50,OPI
+137,EK725381     Corp,600.0,0.0279630027906777,44104.0,607627.82,USD,600.0,RQI US Equity,EK725381     Corp,OPI 4 ½ 02/01/25,OPI
+138,BK153035     Corp,400.0,0.01919602301726154,44104.0,417123.93,USD,0.0,RQI US Equity,BK153035     Corp,VER 3.4 01/15/28,VER
+139,ZR495897     Corp,336.0,0.01541653647995923,44104.0,334996.8,USD,0.0,RQI US Equity,ZR495897     Corp,C 5 PERP,C
+140,BK767503     Corp,300.0,0.01348691117086189,44104.0,293066.61,USD,300.0,RQI US Equity,BK767503     Corp,SRC 3.2 02/15/31,SRC
+141,EUR Curncy,1.719309999999999,7.912256276883452e-05,44104.0,1719.31,USD,1.719309999999999,RQI US Equity,EUR Curncy,EURO,42
+142,B24568378 IRS USD P F  1.45950 124568378_FIX CCPVANILLA,-115000000.0,-5.500288417261521,44104.0,-119519648.35,USD,0.0,RQI US Equity,B24568378 IRS USD P F  1.45950 124568378_FIX CCPVANILLA,42,42
+143,B32793095 IRS USD P F  1.28000 132793095-2_FIX CCPVANILLA,-69000000.0,-3.346453625241538,44104.0,-72717452.28,USD,0.0,RQI US Equity,B32793095 IRS USD P F  1.28000 132793095-2_FIX CCPVANILLA,42,42
+144,HEALTHPEAK PROPERTIES INC OCT20 31.53 PUT,-267200.0,-0.05392405117472584,44104.0,-1171753.76,USD,0.0,RQI US Equity,HEALTHPEAK PROPERTIES INC OCT20 31.53 PUT,42,42
+145,HEALTHCARE TRUST OF AMERICA IN OCT20 25 PUT,-346500.0,-0.006777013103946057,44104.0,-147262.5,USD,0.0,RQI US Equity,HEALTHCARE TRUST OF AMERICA IN OCT20 25 PUT,42,42
+146,B32793095 IRS USD R V 01MLIBOR 132793095-2_FLO CCPVANILLA,69000000.0,3.175376651708873,44104.0,69000000.0,USD,0.0,RQI US Equity,B32793095 IRS USD R V 01MLIBOR 132793095-2_FLO CCPVANILLA,42,42
+147,WELLTOWER INC NOV20 50 PUT,-80500.0,-0.007705580674813532,44104.0,-167440.0,USD,0.0,RQI US Equity,WELLTOWER INC NOV20 50 PUT,42,42
+148,EP053315     Pfd,0.0,0.0,44104.0,0.0,USD,-60000.0,RQI US Equity,EP053315     Pfd,KIM 5 ⅛ PERP,KIM
+149,BJ427890     Corp,0.0,0.0,44104.0,0.0,USD,-450.0,RQI US Equity,BJ427890     Corp,REG 3.7 06/15/30,REG
+150,BG LLH LLC PRIVATE INVESTMENT,140125.0,0.3713717468802818,44104.0,8069798.75,USD,0.0,RQI US Equity,BG LLH LLC PRIVATE INVESTMENT,42,42
+151,EP038584     Pfd,0.0,0.0,44104.0,0.0,USD,-4000.0,RQI US Equity,EP038584     Pfd,FARMCB 10 PERP,FARMCB
+152,BK104284     Corp,0.0,0.0,44104.0,0.0,USD,-700.0,RQI US Equity,BK104284     Corp,WELL 2 ¾ 01/15/31,WELL
+153,WP CAREY INC OCT20 65 PUT,-69700.0,-0.006190649892239556,44104.0,-134521.0,USD,0.0,RQI US Equity,WP CAREY INC OCT20 65 PUT,42,42
+154,OHI US Equity,0.0,0.0,44104.0,0.0,USD,-254333.0,RQI US Equity,OHI US Equity,Omega Healthcare Investors Inc,OHI
+155,MEDICAL PROPERTIES TRUST INC NOV20 17 PUT,-375400.0,-0.01209312284834866,44104.0,-262780.0,USD,0.0,RQI US Equity,MEDICAL PROPERTIES TRUST INC NOV20 17 PUT,42,42
+156,EP049221     Pfd,0.0,0.0,44104.0,0.0,USD,-234000.0,RQI US Equity,EP049221     Pfd,DLR 6.35 PERP,DLR
+157,REG US Equity,0.0,0.0,44104.0,0.0,USD,-524583.0,RQI US Equity,REG US Equity,Regency Centers Corp,REG
+158,EC438060     Corp,0.0,0.0,44104.0,0.0,USD,-4000.0,RQI US Equity,EC438060     Corp,NWG 7.648 PERP,NWG
+159,CYRUSONE INC NOV20 65 PUT,-117500.0,-0.01016205481377261,44104.0,-220818.46,USD,0.0,RQI US Equity,CYRUSONE INC NOV20 65 PUT,42,42
+160,ZR551830     Corp,0.0,0.0,44104.0,0.0,USD,-1625.0,RQI US Equity,ZR551830     Corp,SVC 4.95 10/01/29,SVC
+161,EP053256     Pfd,0.0,0.0,44104.0,0.0,USD,-7700.0,RQI US Equity,EP053256     Pfd,CCI 6 ⅞ 08/01/20,CCI
+162,B24568378 IRS USD R V 01MLIBOR 124568378_FLO CCPVANILLA,115000000.0,5.292294419514788,44104.0,115000000.0,USD,0.0,RQI US Equity,B24568378 IRS USD R V 01MLIBOR 124568378_FLO CCPVANILLA,42,42
+163,3357358Z MV Equity,3927678.0,0.0,44104.0,0.0,USD,0.0,RQI US Equity,3357358Z MV Equity,BGP Holdings PLC,42
+164,LAMAR ADVERTISING CO OCT20 60 PUT,-22400.0,-0.0004123387652074131,44104.0,-8960.0,USD,0.0,RQI US Equity,LAMAR ADVERTISING CO OCT20 60 PUT,42,42
+165,BJ717014     Corp,0.0,0.0,44104.0,0.0,USD,-400.0,RQI US Equity,BJ717014     Corp,M 8 ⅜ 06/15/25,M
+166,EK865708     Corp,0.0,0.0,44104.0,0.0,USD,-3000.0,RQI US Equity,EK865708     Corp,GS Float PERP,GS
+167,EK274924     Corp,0.0,0.0,44104.0,0.0,USD,-1850.0,RQI US Equity,EK274924     Corp,SRC 3 ¾ 05/15/21,SRC
+168,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+169,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+170,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+171,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+172,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+173,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+174,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+175,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+176,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+177,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+178,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+179,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+180,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+181,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+182,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+183,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+184,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+185,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+186,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+187,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+188,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+189,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+190,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+191,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+192,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+193,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+194,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+195,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+196,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+197,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+198,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+199,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+200,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+201,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+202,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+203,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+204,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+205,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+206,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+207,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+208,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+209,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+210,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+211,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+212,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+213,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+214,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+215,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+216,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+217,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+218,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+219,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+220,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+221,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+222,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+223,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+224,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+225,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+226,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+227,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+228,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+229,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+230,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+231,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+232,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+233,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+234,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+235,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+236,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+237,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+238,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+239,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+240,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+241,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+242,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+243,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+244,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+245,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+246,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+247,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+248,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+249,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+250,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+251,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+252,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+253,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+254,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+255,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+256,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+257,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+258,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+259,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+260,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+261,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+262,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+263,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+264,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+265,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+266,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+267,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+268,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+269,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+270,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+271,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+272,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+273,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+274,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+275,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+276,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+277,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+278,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+279,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+280,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+281,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+282,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+283,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+284,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+285,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+286,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+287,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+288,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+289,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+290,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+291,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+292,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+293,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+294,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+295,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+296,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+297,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+298,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+299,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+300,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+301,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+302,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+303,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+304,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+305,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+306,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+307,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+308,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+309,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+310,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+311,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+312,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+313,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+314,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+315,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+316,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+317,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+318,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+319,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+320,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+321,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+322,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+323,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+324,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+325,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+326,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+327,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+328,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+329,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+330,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+331,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+332,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+333,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+334,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+335,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+336,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+337,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+338,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+339,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+340,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+341,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+342,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+343,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+344,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+345,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+346,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+347,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+348,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+349,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+350,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+351,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+352,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+353,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+354,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+355,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+356,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+357,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+358,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
+359,,,,,,,,,,#N/A Invalid Security,#N/A Invalid Security
