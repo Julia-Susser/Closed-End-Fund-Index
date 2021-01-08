@@ -1,0 +1,64 @@
+#first table, #first th, #first td {
+  border: 1px solid black;
+}
+#first table, #first th, #first td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+#table th{
+  width:20px;
+}
+#first tr:nth-child(even) {
+  background-color: #eee;
+}
+#first tr:nth-child(odd) {
+  background-color: #fff;
+}
+
+#intro {
+  margin-left: 10px;
+}
+#href{
+  margin-bottom: 10px;
+}
+
+.separate{
+  width:100%;
+}
+tr.border_bottom td{
+  border-bottom: 1px solid black;
+}
+#asset1{
+  float:left;
+  margin-left:20px;
+  width:90%
+}
+#left{
+  float:left;
+  width:40%;
+  border-right: solid 1px black;
+  padding-right:10px;
+  margin-right: 13px;
+}
+
+#href input, #href button{
+  text-decoration: none;
+  background-color: CornFlowerBlue;
+  color: #ffffff;
+  border: none;
+
+  padding: 10px 20px;
+  font-size: 17px;
+
+
+}
+#space {
+  width:10px;
+  height:10px;
+}
+button:hover {
+  opacity: 0.8;
+}
+#form{
+  float: left;
+}

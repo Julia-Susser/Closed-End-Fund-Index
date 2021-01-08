@@ -1,0 +1,96 @@
+<html>
+<head>
+
+  <script src='static/Chart.min.js'></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='navbar.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='home2.css') }}">
+</head>
+<body>
+
+  <script src='static/navbar.js'></script>
+  <div class="content">
+    <div id="left">
+      <div id="intro">
+        <h1>Closed End Fund Index</h1>
+        <p>The Closed End Fund Index strives to create portfolios that mirror indexes using closed end funds. By using closed end funds which sell at discounts and premiums, we have developed an algorithm that builds a portfolio that mirrors an index such as the S&P 500 at a discount, allowing clients to purchase a portfolio similar to an index at a discount. Our algorithm works by purchasing calculated percentages of closed end funds, whose assets weighted by those specific percentages create a portfolio as similar to an index as possible. Furthermore, our algorithm works to not only mimic the index but also maximize the discount. Additionally, we take a specific percentage of that AI created portfolio and purchase independent stocks to create a portfolio even closer to the index. Our funds are ideal for those simply looking to invest in the market, with higher returns than the market itself. Our funds are updated monthly. </p>
+      </div>
+
+
+      <div id='asset1'>
+        <table>
+          <tr><td>Percentage of Fund not in Index:</td><td>{{ data_points.amount_more }}%</td><td>{{ data_points_adjusted.amount_more }}%</td></tr>
+          <tr class="border_bottom"><td>Total percentage of Assets in Index:</td><td>{{ data_points.amount_sp500 }}%</td><td>{{ data_points_adjusted.amount_sp500 }}%</td></tr>
+          <tr><td></td><td>100%</td><td>100%</td></tr>
+          <tr id="space"></tr>
+          <tr><td>Amount of fund bought separately in individual stocks:</td><td>{{ data_points.amount_buy }}%</td><td>{{ data_points_adjusted.amount_buy }}%</td></tr>
+          <tr class="border_bottom"><td>Amount of fund invest in Closed End Funds:</td><td>{{ data_points.amount_cef }}%</td><td>{{ data_points_adjusted.amount_cef }}%</td></tr>
+          <tr><td></td><td>100%</td><td>100%</td></tr>
+          <tr id="space"></tr>
+          <tr><td>Weighted Average Discount:</td><td>{{ cef_data.discount }}%</td><td>{{ cef_data.adjusted_discount }}%</td></tr>
+          <tr class="border_bottom"><td>Weighted Average Effective Leverage:</td><td>{{ cef_data.effective }}%</td><td>{{ cef_data.adjusted_effective }}%</td></tr>
+          <tr id="space"></tr>
+          <tr><td>Weighted Average Distribution Rate:</td><td>{{ cef_data.distribution }}%</td><td>{{ cef_data.adjusted_distribution }}%</td></tr>
+          <tr class="border_bottom"><td>Percentage of Closed End Fund Assets in Index:</td><td>{{ data_points.amount_sp500_cef }}%</td><td>{{ data_points_adjusted.amount_sp500_cef }}%</td></tr>
+          <tr id="space"></tr>
+        </table>
+        <div id="first">
+          <table>
+            <tr>
+              <th>Assets</th>
+              <th>Our Fund</th>
+              <th>Adjusted Fund</th>
+              <th>Index</th>
+            </tr>
+            {% for row in assets_adjust %}
+            <tr>
+                {% for value in row %}
+                <td>{{ value }}</td>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+          </table>
+        </div>
+      </div>
+    </div>
+
+      <div id="table">
+        <form action="" method="post">
+
+
+          <div id="href">
+            <input id="submit" type="submit" name="action" value="submit">
+            <input id="submit" type="submit" name="action" value="reset">
+            <input id="submit" type="submit" name="action" value="download">
+          </div>
+            <table>
+              <tr>
+                <th>Closed End Fund</th>
+                <th>Current Discount</th>
+                <th>52W Average Discount</th>
+                <th>Effective Leverage</th>
+                <th>Distribution Rate</th>
+                <th>Weight</th>
+                <th>Adjusted</th>
+              </tr>
+              {% for row in discount_weights %}
+              <tr>
+                  {% for value in row[:-1] %}
+                  <td>{{ value }}</td>
+                  {% endfor %}
+                  <td><input name="{{ row[0] }}" value="{{ row[-1] }}"></input></td>
+              </tr>
+              {% endfor %}
+            </table>
+        </form>
+      </div>
+    </div>
+    </div>
+  </div>
+
+</div>
+
+
+<script>alert("Effective Leverage that was N/A was replaced with Zero")</script>
+
+</body>
+</html>

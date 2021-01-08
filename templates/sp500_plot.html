@@ -1,0 +1,88 @@
+<html>
+<head>
+
+  <script src='static/Chart.min.js'></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='navbar.css') }}">
+
+</head>
+<body>
+
+  <script src='static/navbar.js'></script>
+  <div class="content">
+  <canvas id="myChart" width="800" height="600"></canvas>
+  <script>
+    Chart.defaults.global.responsive = false;
+
+    var holder = document.getElementById("myChart");
+    var ctx = document.getElementById("myChart").getContext("2d");
+    var myChart = new Chart(ctx, {
+      type: 'scatter',
+      data: {
+        datasets: [{
+          label: 'Scatter Dataset',
+          data: {{ data }},
+          showLine: false,
+          borderColor: "blue",
+          backgroundColor: "blue",
+          pointRadius: 5,
+          pointHoverRadius: 5,
+        }]
+      },
+      options: {
+        scales: {
+          xAxes: [{
+            scaleLabel: {
+              display: true,
+              labelString: 'Percent of Fund in S&P 500'
+            }
+          }],
+          yAxes: [{
+            scaleLabel: {
+              display: true,
+              labelString: 'Weighted Discount'
+            }
+          }]
+        },
+        legend: {
+          display: false
+        },
+        hover: {mode: null},
+        tooltips: {
+          callbacks: {
+            title: function(item, data) {
+              console.log({{ data }}[item[0].index])
+              var effective = Math.round({{ data }}[item[0].index].effective*100)/100
+              var distribution = Math.round({{ data }}[item[0].index].distribution*100)/100
+              return [`Percent Index for Fund: ${Math.round(item[0].xLabel *100)/100}%`,
+              `Weighted Discount for Fund: ${Math.round(item[0].yLabel *100)/100}%`,
+              `Weighted Effective Leverage for Fund: ${effective}%`,
+            `Distribution Rate in CEFs: ${distribution}%`]
+              ;
+            },
+            label: function(item, data) {
+
+              var datasetLabel = item.xLabel || "";
+              var dataPoint = item.yLabel;
+              return "";
+            }
+          }
+        }
+      }
+    });
+
+    holder.onclick = function(evt){
+      var activePoint = myChart.getElementAtEvent(evt);
+      window.location = "/home?index=" + {{ data }}[activePoint[0]._index].which
+    };
+  </script>
+</div>
+
+
+
+<footer>
+  <br><br><br><br><br><br>
+  <br><br><br><br><br><br>
+  <br>
+</footer>
+</body>
+</html>
